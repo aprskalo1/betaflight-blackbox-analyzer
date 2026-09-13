@@ -1,0 +1,142 @@
+[
+  {
+    "file": "LOG00026",
+    "interval_s": [
+      244.7,
+      245.3
+    ],
+    "flight_controller_time_s": [
+      322.299516,
+      322.899516
+    ],
+    "interpretation": "After throttle reduction and turn",
+    "roll_error_range_dps": [
+      -36.0,
+      24.0
+    ],
+    "pitch_error_range_dps": [
+      -47.0,
+      37.0
+    ],
+    "rpm_range": [
+      10528.57142857143,
+      19657.14285714286
+    ],
+    "motor_command_range": [
+      477,
+      1250
+    ]
+  },
+  {
+    "file": "LOG00026",
+    "interval_s": [
+      295.0,
+      295.8
+    ],
+    "flight_controller_time_s": [
+      372.599516,
+      373.399516
+    ],
+    "interpretation": "Power restored after zero-throttle coast",
+    "roll_error_range_dps": [
+      -21.0,
+      22.0
+    ],
+    "pitch_error_range_dps": [
+      -24.0,
+      33.0
+    ],
+    "rpm_range": [
+      13142.857142857143,
+      20457.14285714286
+    ],
+    "motor_command_range": [
+      646,
+      1246
+    ]
+  },
+  {
+    "file": "LOG00025",
+    "interval_s": [
+      81.75,
+      82.3
+    ],
+    "flight_controller_time_s": [
+      165.680273,
+      166.230273
+    ],
+    "interpretation": "Power restored after throttle cut",
+    "roll_error_range_dps": [
+      -31.0,
+      32.0
+    ],
+    "pitch_error_range_dps": [
+      -36.0,
+      29.0
+    ],
+    "rpm_range": [
+      7714.285714285715,
+      20457.14285714286
+    ],
+    "motor_command_range": [
+      228,
+      1322
+    ]
+  },
+  {
+    "file": "LOG00023",
+    "interval_s": [
+      136.35,
+      136.85
+    ],
+    "flight_controller_time_s": [
+      224.80196,
+      225.30196
+    ],
+    "interpretation": "After rapid pitch/roll manoeuvres",
+    "roll_error_range_dps": [
+      -69.0,
+      45.0
+    ],
+    "pitch_error_range_dps": [
+      -30.0,
+      30.0
+    ],
+    "rpm_range": [
+      8214.285714285714,
+      25142.85714285714
+    ],
+    "motor_command_range": [
+      350,
+      1700
+    ]
+  },
+  {
+    "file": "LOG00023",
+    "interval_s": [
+      171.55,
+      172.2
+    ],
+    "flight_controller_time_s": [
+      260.00196,
+      260.65196
+    ],
+    "interpretation": "Immediate throttle-cut bobble",
+    "roll_error_range_dps": [
+      -45.0,
+      63.0
+    ],
+    "pitch_error_range_dps": [
+      -51.0,
+      31.0
+    ],
+    "rpm_range": [
+      3042.8571428571427,
+      22557.14285714286
+    ],
+    "motor_command_range": [
+      158,
+      1441
+    ]
+  }
+]

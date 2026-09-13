@@ -1,0 +1,242 @@
+[
+  {
+    "start_s": 0.0,
+    "throttle_mean": 19.063377084772526,
+    "throttle_max": 63.7,
+    "speed_mean_kmh": 30.881087999999995,
+    "speed_max_kmh": 49.31999999999999,
+    "baro_range": [
+      -3.42,
+      13.85
+    ],
+    "distance_range": [
+      0.36124758974868265,
+      39.46841206460921
+    ],
+    "gyro_absmax": [
+      115,
+      93,
+      70
+    ]
+  },
+  {
+    "start_s": 30.0,
+    "throttle_mean": 23.47755887383239,
+    "throttle_max": 65.7,
+    "speed_mean_kmh": 27.340014234875444,
+    "speed_max_kmh": 56.519999999999996,
+    "baro_range": [
+      -0.65,
+      28.97
+    ],
+    "distance_range": [
+      2.8821764404141144,
+      54.3418572750446
+    ],
+    "gyro_absmax": [
+      292,
+      144,
+      70
+    ]
+  },
+  {
+    "start_s": 60.0,
+    "throttle_mean": 27.273709136354668,
+    "throttle_max": 86.9,
+    "speed_mean_kmh": 48.15608450704225,
+    "speed_max_kmh": 110.16,
+    "baro_range": [
+      -13.13,
+      38.48
+    ],
+    "distance_range": [
+      3.4621713782865897,
+      64.3434583744767
+    ],
+    "gyro_absmax": [
+      442,
+      306,
+      466
+    ]
+  },
+  {
+    "start_s": 90.0,
+    "throttle_mean": 27.403680315737542,
+    "throttle_max": 96.6,
+    "speed_mean_kmh": 45.74832167832168,
+    "speed_max_kmh": 101.484,
+    "baro_range": [
+      -12.3,
+      23.76
+    ],
+    "distance_range": [
+      20.340492599345517,
+      73.38719610449233
+    ],
+    "gyro_absmax": [
+      1059,
+      292,
+      106
+    ]
+  },
+  {
+    "start_s": 120.0,
+    "throttle_mean": 31.32297572847465,
+    "throttle_max": 100.0,
+    "speed_mean_kmh": 53.2513024911032,
+    "speed_max_kmh": 129.27599999999998,
+    "baro_range": [
+      -14.22,
+      50.85
+    ],
+    "distance_range": [
+      1.492564392792532,
+      64.48987602775719
+    ],
+    "gyro_absmax": [
+      873,
+      1138,
+      679
+    ]
+  },
+  {
+    "start_s": 150.0,
+    "throttle_mean": 35.51737157140038,
+    "throttle_max": 69.7,
+    "speed_mean_kmh": 58.9715871886121,
+    "speed_max_kmh": 105.91199999999999,
+    "baro_range": [
+      -12.55,
+      20.23
+    ],
+    "distance_range": [
+      3.2155889043040276,
+      84.98263038087407
+    ],
+    "gyro_absmax": [
+      152,
+      144,
+      101
+    ]
+  },
+  {
+    "start_s": 180.0,
+    "throttle_mean": 31.511935144379397,
+    "throttle_max": 100.0,
+    "speed_mean_kmh": 52.12256115107914,
+    "speed_max_kmh": 147.42,
+    "baro_range": [
+      -36.39,
+      28.8
+    ],
+    "distance_range": [
+      0.28748900993599213,
+      75.37581342953932
+    ],
+    "gyro_absmax": [
+      948,
+      145,
+      98
+    ]
+  },
+  {
+    "start_s": 210.0,
+    "throttle_mean": 28.899082417943827,
+    "throttle_max": 91.6,
+    "speed_mean_kmh": 45.46553956834532,
+    "speed_max_kmh": 101.232,
+    "baro_range": [
+      -1.15,
+      35.62
+    ],
+    "distance_range": [
+      5.318288381093121,
+      87.77551824997424
+    ],
+    "gyro_absmax": [
+      1161,
+      1180,
+      390
+    ]
+  },
+  {
+    "start_s": 240.0,
+    "throttle_mean": 36.52777832593324,
+    "throttle_max": 100.0,
+    "speed_mean_kmh": 50.338996363636355,
+    "speed_max_kmh": 155.772,
+    "baro_range": [
+      -30.12,
+      36.29
+    ],
+    "distance_range": [
+      4.917499848642076,
+      69.78855643574761
+    ],
+    "gyro_absmax": [
+      1132,
+      1029,
+      348
+    ]
+  },
+  {
+    "start_s": 270.0,
+    "throttle_mean": 28.248085904097877,
+    "throttle_max": 62.4,
+    "speed_mean_kmh": 35.45652044609665,
+    "speed_max_kmh": 84.384,
+    "baro_range": [
+      -3.0,
+      20.06
+    ],
+    "distance_range": [
+      1.0408816362639488,
+      53.102342520020606
+    ],
+    "gyro_absmax": [
+      353,
+      262,
+      124
+    ]
+  },
+  {
+    "start_s": 300.0,
+    "throttle_mean": 24.569905275621625,
+    "throttle_max": 57.8,
+    "speed_mean_kmh": 22.814083018867926,
+    "speed_max_kmh": 52.12799999999999,
+    "baro_range": [
+      1.27,
+      14.27
+    ],
+    "distance_range": [
+      0.44935663098822903,
+      49.17152736082689
+    ],
+    "gyro_absmax": [
+      138,
+      147,
+      131
+    ]
+  },
+  {
+    "start_s": 330.0,
+    "throttle_mean": 23.758709925263673,
+    "throttle_max": 83.6,
+    "speed_mean_kmh": 10.887688715953308,
+    "speed_max_kmh": 55.547999999999995,
+    "baro_range": [
+      0.01,
+      16.29
+    ],
+    "distance_range": [
+      7.5227299990466125,
+      32.937749427063046
+    ],
+    "gyro_absmax": [
+      208,
+      92,
+      158
+    ]
+  }
+]

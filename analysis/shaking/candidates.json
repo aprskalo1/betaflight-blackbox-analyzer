@@ -1,0 +1,3707 @@
+[
+  {
+    "file": "LOG00026",
+    "t": 250.819,
+    "axis": "roll",
+    "rms_8_80_dps": 17.99,
+    "command_band_rms": 2.1,
+    "throttle_at_peak": 84.0,
+    "throttle_recent_max": 92.4,
+    "recent_drop_pp": 8.4,
+    "gyro_minmax_300ms": [
+      65.0,
+      175.0
+    ],
+    "dominant_hz": 29.7
+  },
+  {
+    "file": "LOG00026",
+    "t": 117.824,
+    "axis": "roll",
+    "rms_8_80_dps": 16.92,
+    "command_band_rms": 2.39,
+    "throttle_at_peak": 66.2,
+    "throttle_recent_max": 66.2,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -39.0,
+      42.0
+    ],
+    "dominant_hz": 29.7
+  },
+  {
+    "file": "LOG00026",
+    "t": 244.862,
+    "axis": "roll",
+    "rms_8_80_dps": 15.98,
+    "command_band_rms": 1.78,
+    "throttle_at_peak": 35.7,
+    "throttle_recent_max": 70.4,
+    "recent_drop_pp": 34.7,
+    "gyro_minmax_300ms": [
+      -34.0,
+      84.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 95.562,
+    "axis": "roll",
+    "rms_8_80_dps": 14.12,
+    "command_band_rms": 0.45,
+    "throttle_at_peak": 35.2,
+    "throttle_recent_max": 37.6,
+    "recent_drop_pp": 2.4,
+    "gyro_minmax_300ms": [
+      -157.0,
+      -78.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 295.153,
+    "axis": "pitch",
+    "rms_8_80_dps": 13.34,
+    "command_band_rms": 0.91,
+    "throttle_at_peak": 37.2,
+    "throttle_recent_max": 37.2,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -82.0,
+      -19.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 230.694,
+    "axis": "roll",
+    "rms_8_80_dps": 12.65,
+    "command_band_rms": 1.74,
+    "throttle_at_peak": 15.4,
+    "throttle_recent_max": 95.1,
+    "recent_drop_pp": 79.7,
+    "gyro_minmax_300ms": [
+      -32.0,
+      77.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 128.444,
+    "axis": "pitch",
+    "rms_8_80_dps": 12.64,
+    "command_band_rms": 0.38,
+    "throttle_at_peak": 30.7,
+    "throttle_recent_max": 30.7,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -41.0,
+      5.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 255.585,
+    "axis": "roll",
+    "rms_8_80_dps": 11.45,
+    "command_band_rms": 0.61,
+    "throttle_at_peak": 21.3,
+    "throttle_recent_max": 36.1,
+    "recent_drop_pp": 14.8,
+    "gyro_minmax_300ms": [
+      -21.0,
+      22.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 336.858,
+    "axis": "pitch",
+    "rms_8_80_dps": 11.42,
+    "command_band_rms": 0.86,
+    "throttle_at_peak": 31.0,
+    "throttle_recent_max": 76.3,
+    "recent_drop_pp": 45.3,
+    "gyro_minmax_300ms": [
+      -153.0,
+      -92.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 145.756,
+    "axis": "pitch",
+    "rms_8_80_dps": 11.2,
+    "command_band_rms": 0.64,
+    "throttle_at_peak": 38.9,
+    "throttle_recent_max": 49.0,
+    "recent_drop_pp": 10.1,
+    "gyro_minmax_300ms": [
+      -88.0,
+      -39.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 248.483,
+    "axis": "pitch",
+    "rms_8_80_dps": 11.08,
+    "command_band_rms": 0.37,
+    "throttle_at_peak": 45.2,
+    "throttle_recent_max": 53.2,
+    "recent_drop_pp": 8.0,
+    "gyro_minmax_300ms": [
+      -61.0,
+      -8.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 302.718,
+    "axis": "roll",
+    "rms_8_80_dps": 10.76,
+    "command_band_rms": 1.69,
+    "throttle_at_peak": 40.3,
+    "throttle_recent_max": 66.3,
+    "recent_drop_pp": 26.0,
+    "gyro_minmax_300ms": [
+      -55.0,
+      16.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 215.828,
+    "axis": "roll",
+    "rms_8_80_dps": 10.1,
+    "command_band_rms": 0.68,
+    "throttle_at_peak": 30.6,
+    "throttle_recent_max": 43.9,
+    "recent_drop_pp": 13.3,
+    "gyro_minmax_300ms": [
+      -32.0,
+      9.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 265.33,
+    "axis": "roll",
+    "rms_8_80_dps": 9.95,
+    "command_band_rms": 1.21,
+    "throttle_at_peak": 36.4,
+    "throttle_recent_max": 83.1,
+    "recent_drop_pp": 46.7,
+    "gyro_minmax_300ms": [
+      -112.0,
+      -51.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 288.005,
+    "axis": "roll",
+    "rms_8_80_dps": 9.5,
+    "command_band_rms": 0.64,
+    "throttle_at_peak": 26.1,
+    "throttle_recent_max": 36.5,
+    "recent_drop_pp": 10.4,
+    "gyro_minmax_300ms": [
+      -43.0,
+      2.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 277.031,
+    "axis": "roll",
+    "rms_8_80_dps": 9.22,
+    "command_band_rms": 1.01,
+    "throttle_at_peak": 24.5,
+    "throttle_recent_max": 24.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -42.0,
+      35.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 218.236,
+    "axis": "roll",
+    "rms_8_80_dps": 9.18,
+    "command_band_rms": 2.82,
+    "throttle_at_peak": 30.7,
+    "throttle_recent_max": 75.1,
+    "recent_drop_pp": 44.4,
+    "gyro_minmax_300ms": [
+      -125.0,
+      20.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 243.036,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.97,
+    "command_band_rms": 7.8,
+    "throttle_at_peak": 53.9,
+    "throttle_recent_max": 88.3,
+    "recent_drop_pp": 34.4,
+    "gyro_minmax_300ms": [
+      -37.0,
+      125.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 226.892,
+    "axis": "roll",
+    "rms_8_80_dps": 8.89,
+    "command_band_rms": 4.85,
+    "throttle_at_peak": 72.9,
+    "throttle_recent_max": 72.9,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -72.0,
+      181.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 273.222,
+    "axis": "roll",
+    "rms_8_80_dps": 8.27,
+    "command_band_rms": 0.46,
+    "throttle_at_peak": 59.8,
+    "throttle_recent_max": 59.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -2.0,
+      39.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 320.148,
+    "axis": "roll",
+    "rms_8_80_dps": 8.18,
+    "command_band_rms": 0.42,
+    "throttle_at_peak": 25.7,
+    "throttle_recent_max": 25.7,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -4.0,
+      45.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 308.173,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.14,
+    "command_band_rms": 0.57,
+    "throttle_at_peak": 21.8,
+    "throttle_recent_max": 23.6,
+    "recent_drop_pp": 1.8,
+    "gyro_minmax_300ms": [
+      -21.0,
+      15.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 219.947,
+    "axis": "roll",
+    "rms_8_80_dps": 8.08,
+    "command_band_rms": 0.98,
+    "throttle_at_peak": 28.9,
+    "throttle_recent_max": 75.1,
+    "recent_drop_pp": 46.2,
+    "gyro_minmax_300ms": [
+      -118.0,
+      -26.0
+    ],
+    "dominant_hz": 27.7
+  },
+  {
+    "file": "LOG00026",
+    "t": 322.648,
+    "axis": "roll",
+    "rms_8_80_dps": 7.76,
+    "command_band_rms": 0.44,
+    "throttle_at_peak": 32.8,
+    "throttle_recent_max": 32.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -20.0,
+      17.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 74.84,
+    "axis": "roll",
+    "rms_8_80_dps": 7.62,
+    "command_band_rms": 0.37,
+    "throttle_at_peak": 47.1,
+    "throttle_recent_max": 51.7,
+    "recent_drop_pp": 4.6,
+    "gyro_minmax_300ms": [
+      53.0,
+      86.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 312.954,
+    "axis": "roll",
+    "rms_8_80_dps": 7.48,
+    "command_band_rms": 0.69,
+    "throttle_at_peak": 51.0,
+    "throttle_recent_max": 51.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      45.0,
+      89.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 148.603,
+    "axis": "roll",
+    "rms_8_80_dps": 7.4,
+    "command_band_rms": 0.58,
+    "throttle_at_peak": 42.1,
+    "throttle_recent_max": 42.1,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      33.0,
+      120.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 84.701,
+    "axis": "roll",
+    "rms_8_80_dps": 7.32,
+    "command_band_rms": 6.83,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 0.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      38.0,
+      172.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 213.63,
+    "axis": "roll",
+    "rms_8_80_dps": 7.19,
+    "command_band_rms": 0.81,
+    "throttle_at_peak": 40.4,
+    "throttle_recent_max": 69.0,
+    "recent_drop_pp": 28.6,
+    "gyro_minmax_300ms": [
+      -84.0,
+      24.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 344.3,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.93,
+    "command_band_rms": 0.74,
+    "throttle_at_peak": 37.0,
+    "throttle_recent_max": 37.1,
+    "recent_drop_pp": 0.1,
+    "gyro_minmax_300ms": [
+      -109.0,
+      -43.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 260.036,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.4,
+    "command_band_rms": 6.64,
+    "throttle_at_peak": 46.1,
+    "throttle_recent_max": 59.5,
+    "recent_drop_pp": 13.4,
+    "gyro_minmax_300ms": [
+      -7.0,
+      165.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 139.48,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.39,
+    "command_band_rms": 2.94,
+    "throttle_at_peak": 17.8,
+    "throttle_recent_max": 17.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -38.0,
+      6.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 161.957,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.34,
+    "command_band_rms": 2.38,
+    "throttle_at_peak": 48.7,
+    "throttle_recent_max": 50.7,
+    "recent_drop_pp": 2.0,
+    "gyro_minmax_300ms": [
+      -67.0,
+      86.0
+    ],
+    "dominant_hz": 31.7
+  },
+  {
+    "file": "LOG00026",
+    "t": 151.132,
+    "axis": "roll",
+    "rms_8_80_dps": 6.26,
+    "command_band_rms": 0.81,
+    "throttle_at_peak": 43.2,
+    "throttle_recent_max": 43.2,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -27.0,
+      8.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 247.172,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.19,
+    "command_band_rms": 5.14,
+    "throttle_at_peak": 59.4,
+    "throttle_recent_max": 75.2,
+    "recent_drop_pp": 15.8,
+    "gyro_minmax_300ms": [
+      -122.0,
+      79.0
+    ],
+    "dominant_hz": 33.6
+  },
+  {
+    "file": "LOG00026",
+    "t": 341.042,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.16,
+    "command_band_rms": 0.32,
+    "throttle_at_peak": 27.6,
+    "throttle_recent_max": 31.5,
+    "recent_drop_pp": 3.9,
+    "gyro_minmax_300ms": [
+      -46.0,
+      -16.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 210.02,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.11,
+    "command_band_rms": 0.26,
+    "throttle_at_peak": 27.5,
+    "throttle_recent_max": 68.8,
+    "recent_drop_pp": 41.3,
+    "gyro_minmax_300ms": [
+      -76.0,
+      -18.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 102.908,
+    "axis": "roll",
+    "rms_8_80_dps": 5.89,
+    "command_band_rms": 0.72,
+    "throttle_at_peak": 27.4,
+    "throttle_recent_max": 78.1,
+    "recent_drop_pp": 50.7,
+    "gyro_minmax_300ms": [
+      -88.0,
+      -54.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 119.972,
+    "axis": "roll",
+    "rms_8_80_dps": 5.67,
+    "command_band_rms": 0.57,
+    "throttle_at_peak": 29.4,
+    "throttle_recent_max": 29.4,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      2.0,
+      61.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 314.85,
+    "axis": "roll",
+    "rms_8_80_dps": 5.66,
+    "command_band_rms": 2.91,
+    "throttle_at_peak": 40.0,
+    "throttle_recent_max": 52.5,
+    "recent_drop_pp": 12.5,
+    "gyro_minmax_300ms": [
+      -142.0,
+      24.0
+    ],
+    "dominant_hz": 23.7
+  },
+  {
+    "file": "LOG00026",
+    "t": 306.293,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.65,
+    "command_band_rms": 4.54,
+    "throttle_at_peak": 13.7,
+    "throttle_recent_max": 86.5,
+    "recent_drop_pp": 72.8,
+    "gyro_minmax_300ms": [
+      -99.0,
+      141.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 122.564,
+    "axis": "roll",
+    "rms_8_80_dps": 5.6,
+    "command_band_rms": 4.8,
+    "throttle_at_peak": 14.0,
+    "throttle_recent_max": 28.4,
+    "recent_drop_pp": 14.4,
+    "gyro_minmax_300ms": [
+      -9.0,
+      134.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 144.059,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.58,
+    "command_band_rms": 3.26,
+    "throttle_at_peak": 20.2,
+    "throttle_recent_max": 60.1,
+    "recent_drop_pp": 39.9,
+    "gyro_minmax_300ms": [
+      -56.0,
+      52.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 261.372,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.47,
+    "command_band_rms": 0.35,
+    "throttle_at_peak": 42.8,
+    "throttle_recent_max": 42.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -53.0,
+      -5.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 101.747,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.44,
+    "command_band_rms": 4.12,
+    "throttle_at_peak": 47.2,
+    "throttle_recent_max": 71.6,
+    "recent_drop_pp": 24.4,
+    "gyro_minmax_300ms": [
+      -136.0,
+      40.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 14.771,
+    "axis": "roll",
+    "rms_8_80_dps": 5.43,
+    "command_band_rms": 0.58,
+    "throttle_at_peak": 28.1,
+    "throttle_recent_max": 28.1,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -83.0,
+      -47.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 263.675,
+    "axis": "roll",
+    "rms_8_80_dps": 5.43,
+    "command_band_rms": 0.65,
+    "throttle_at_peak": 19.7,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 80.3,
+    "gyro_minmax_300ms": [
+      -25.0,
+      48.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 239.109,
+    "axis": "roll",
+    "rms_8_80_dps": 5.38,
+    "command_band_rms": 0.37,
+    "throttle_at_peak": 34.2,
+    "throttle_recent_max": 34.2,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -17.0,
+      4.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 59.31,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.33,
+    "command_band_rms": 5.69,
+    "throttle_at_peak": 28.4,
+    "throttle_recent_max": 58.2,
+    "recent_drop_pp": 29.8,
+    "gyro_minmax_300ms": [
+      -59.0,
+      92.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 78.875,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.28,
+    "command_band_rms": 0.46,
+    "throttle_at_peak": 35.1,
+    "throttle_recent_max": 35.1,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -46.0,
+      -22.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 165.702,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.25,
+    "command_band_rms": 5.35,
+    "throttle_at_peak": 24.7,
+    "throttle_recent_max": 29.6,
+    "recent_drop_pp": 4.9,
+    "gyro_minmax_300ms": [
+      -53.0,
+      11.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 269.976,
+    "axis": "roll",
+    "rms_8_80_dps": 5.12,
+    "command_band_rms": 2.63,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 100.0,
+    "gyro_minmax_300ms": [
+      -161.0,
+      -10.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 112.622,
+    "axis": "roll",
+    "rms_8_80_dps": 5.11,
+    "command_band_rms": 0.31,
+    "throttle_at_peak": 23.1,
+    "throttle_recent_max": 24.0,
+    "recent_drop_pp": 0.9,
+    "gyro_minmax_300ms": [
+      -48.0,
+      -16.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 33.297,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.1,
+    "command_band_rms": 1.97,
+    "throttle_at_peak": 23.6,
+    "throttle_recent_max": 28.2,
+    "recent_drop_pp": 4.6,
+    "gyro_minmax_300ms": [
+      -42.0,
+      19.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 131.821,
+    "axis": "roll",
+    "rms_8_80_dps": 4.95,
+    "command_band_rms": 0.39,
+    "throttle_at_peak": 25.0,
+    "throttle_recent_max": 34.0,
+    "recent_drop_pp": 9.0,
+    "gyro_minmax_300ms": [
+      -32.0,
+      -10.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 350.83,
+    "axis": "roll",
+    "rms_8_80_dps": 4.79,
+    "command_band_rms": 0.44,
+    "throttle_at_peak": 27.6,
+    "throttle_recent_max": 27.6,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -25.0,
+      -2.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 211.86,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.78,
+    "command_band_rms": 2.93,
+    "throttle_at_peak": 65.3,
+    "throttle_recent_max": 65.3,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -27.0,
+      79.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 130.421,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.6,
+    "command_band_rms": 1.4,
+    "throttle_at_peak": 33.7,
+    "throttle_recent_max": 70.3,
+    "recent_drop_pp": 36.6,
+    "gyro_minmax_300ms": [
+      -103.0,
+      24.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 310.509,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.55,
+    "command_band_rms": 2.44,
+    "throttle_at_peak": 47.4,
+    "throttle_recent_max": 51.2,
+    "recent_drop_pp": 3.8,
+    "gyro_minmax_300ms": [
+      -24.0,
+      67.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 196.947,
+    "axis": "roll",
+    "rms_8_80_dps": 4.53,
+    "command_band_rms": 0.41,
+    "throttle_at_peak": 18.8,
+    "throttle_recent_max": 31.0,
+    "recent_drop_pp": 12.2,
+    "gyro_minmax_300ms": [
+      -47.0,
+      -25.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 366.048,
+    "axis": "roll",
+    "rms_8_80_dps": 4.39,
+    "command_band_rms": 1.6,
+    "throttle_at_peak": 21.5,
+    "throttle_recent_max": 40.0,
+    "recent_drop_pp": 18.5,
+    "gyro_minmax_300ms": [
+      -26.0,
+      14.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 317.265,
+    "axis": "roll",
+    "rms_8_80_dps": 4.29,
+    "command_band_rms": 2.44,
+    "throttle_at_peak": 26.6,
+    "throttle_recent_max": 88.8,
+    "recent_drop_pp": 62.2,
+    "gyro_minmax_300ms": [
+      -47.0,
+      136.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00026",
+    "t": 18.96,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.24,
+    "command_band_rms": 2.71,
+    "throttle_at_peak": 51.2,
+    "throttle_recent_max": 55.5,
+    "recent_drop_pp": 4.3,
+    "gyro_minmax_300ms": [
+      -8.0,
+      47.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 125.83,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.18,
+    "command_band_rms": 0.67,
+    "throttle_at_peak": 92.6,
+    "throttle_recent_max": 92.6,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -10.0,
+      16.0
+    ],
+    "dominant_hz": 31.7
+  },
+  {
+    "file": "LOG00026",
+    "t": 194.024,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.09,
+    "command_band_rms": 2.33,
+    "throttle_at_peak": 33.7,
+    "throttle_recent_max": 33.7,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -49.0,
+      39.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 252.305,
+    "axis": "roll",
+    "rms_8_80_dps": 4.09,
+    "command_band_rms": 1.42,
+    "throttle_at_peak": 79.8,
+    "throttle_recent_max": 79.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      9.0,
+      116.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 77.541,
+    "axis": "roll",
+    "rms_8_80_dps": 4.06,
+    "command_band_rms": 2.02,
+    "throttle_at_peak": 16.6,
+    "throttle_recent_max": 38.9,
+    "recent_drop_pp": 22.3,
+    "gyro_minmax_300ms": [
+      25.0,
+      89.0
+    ],
+    "dominant_hz": 43.5
+  },
+  {
+    "file": "LOG00026",
+    "t": 52.97,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.04,
+    "command_band_rms": 5.06,
+    "throttle_at_peak": 39.0,
+    "throttle_recent_max": 51.3,
+    "recent_drop_pp": 12.3,
+    "gyro_minmax_300ms": [
+      -40.0,
+      69.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00026",
+    "t": 289.266,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.01,
+    "command_band_rms": 0.42,
+    "throttle_at_peak": 16.9,
+    "throttle_recent_max": 20.7,
+    "recent_drop_pp": 3.8,
+    "gyro_minmax_300ms": [
+      -14.0,
+      9.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 211.917,
+    "axis": "roll",
+    "rms_8_80_dps": 19.19,
+    "command_band_rms": 1.62,
+    "throttle_at_peak": 63.5,
+    "throttle_recent_max": 63.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -88.0,
+      43.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 101.822,
+    "axis": "roll",
+    "rms_8_80_dps": 18.22,
+    "command_band_rms": 0.65,
+    "throttle_at_peak": 44.5,
+    "throttle_recent_max": 44.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -90.0,
+      5.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 73.067,
+    "axis": "roll",
+    "rms_8_80_dps": 16.8,
+    "command_band_rms": 0.44,
+    "throttle_at_peak": 32.5,
+    "throttle_recent_max": 32.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -50.0,
+      31.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00025",
+    "t": 149.328,
+    "axis": "pitch",
+    "rms_8_80_dps": 15.26,
+    "command_band_rms": 0.13,
+    "throttle_at_peak": 38.8,
+    "throttle_recent_max": 38.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -26.0,
+      33.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 81.928,
+    "axis": "roll",
+    "rms_8_80_dps": 14.97,
+    "command_band_rms": 0.51,
+    "throttle_at_peak": 35.0,
+    "throttle_recent_max": 71.5,
+    "recent_drop_pp": 36.5,
+    "gyro_minmax_300ms": [
+      -139.0,
+      -42.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 260.041,
+    "axis": "roll",
+    "rms_8_80_dps": 13.8,
+    "command_band_rms": 2.16,
+    "throttle_at_peak": 47.7,
+    "throttle_recent_max": 75.4,
+    "recent_drop_pp": 27.7,
+    "gyro_minmax_300ms": [
+      -142.0,
+      -54.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 125.751,
+    "axis": "pitch",
+    "rms_8_80_dps": 13.75,
+    "command_band_rms": 7.27,
+    "throttle_at_peak": 96.5,
+    "throttle_recent_max": 96.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -140.0,
+      48.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00025",
+    "t": 199.656,
+    "axis": "roll",
+    "rms_8_80_dps": 12.26,
+    "command_band_rms": 0.86,
+    "throttle_at_peak": 64.2,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 35.8,
+    "gyro_minmax_300ms": [
+      -48.0,
+      14.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 201.223,
+    "axis": "roll",
+    "rms_8_80_dps": 12.01,
+    "command_band_rms": 0.78,
+    "throttle_at_peak": 32.6,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 67.4,
+    "gyro_minmax_300ms": [
+      -158.0,
+      -107.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 215.007,
+    "axis": "roll",
+    "rms_8_80_dps": 11.73,
+    "command_band_rms": 0.43,
+    "throttle_at_peak": 36.8,
+    "throttle_recent_max": 36.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -26.0,
+      44.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 228.622,
+    "axis": "roll",
+    "rms_8_80_dps": 11.34,
+    "command_band_rms": 0.08,
+    "throttle_at_peak": 30.8,
+    "throttle_recent_max": 32.9,
+    "recent_drop_pp": 2.1,
+    "gyro_minmax_300ms": [
+      -22.0,
+      38.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 233.143,
+    "axis": "pitch",
+    "rms_8_80_dps": 11.34,
+    "command_band_rms": 1.02,
+    "throttle_at_peak": 33.4,
+    "throttle_recent_max": 54.3,
+    "recent_drop_pp": 20.9,
+    "gyro_minmax_300ms": [
+      -116.0,
+      -61.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 244.557,
+    "axis": "roll",
+    "rms_8_80_dps": 10.78,
+    "command_band_rms": 1.63,
+    "throttle_at_peak": 32.8,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 67.2,
+    "gyro_minmax_300ms": [
+      -156.0,
+      -86.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00025",
+    "t": 270.823,
+    "axis": "pitch",
+    "rms_8_80_dps": 10.54,
+    "command_band_rms": 1.82,
+    "throttle_at_peak": 46.9,
+    "throttle_recent_max": 47.0,
+    "recent_drop_pp": 0.1,
+    "gyro_minmax_300ms": [
+      -83.0,
+      14.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 107.502,
+    "axis": "pitch",
+    "rms_8_80_dps": 9.63,
+    "command_band_rms": 0.52,
+    "throttle_at_peak": 39.3,
+    "throttle_recent_max": 41.0,
+    "recent_drop_pp": 1.7,
+    "gyro_minmax_300ms": [
+      -69.0,
+      -29.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 251.72,
+    "axis": "roll",
+    "rms_8_80_dps": 9.53,
+    "command_band_rms": 0.8,
+    "throttle_at_peak": 49.3,
+    "throttle_recent_max": 49.3,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -75.0,
+      16.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 120.437,
+    "axis": "roll",
+    "rms_8_80_dps": 9.52,
+    "command_band_rms": 1.07,
+    "throttle_at_peak": 27.5,
+    "throttle_recent_max": 86.4,
+    "recent_drop_pp": 58.9,
+    "gyro_minmax_300ms": [
+      -67.0,
+      18.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 129.517,
+    "axis": "pitch",
+    "rms_8_80_dps": 9.39,
+    "command_band_rms": 0.97,
+    "throttle_at_peak": 50.1,
+    "throttle_recent_max": 80.8,
+    "recent_drop_pp": 30.7,
+    "gyro_minmax_300ms": [
+      -93.0,
+      -35.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 180.697,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.33,
+    "command_band_rms": 4.99,
+    "throttle_at_peak": 73.0,
+    "throttle_recent_max": 78.2,
+    "recent_drop_pp": 5.2,
+    "gyro_minmax_300ms": [
+      -83.0,
+      145.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 123.565,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.12,
+    "command_band_rms": 0.42,
+    "throttle_at_peak": 45.4,
+    "throttle_recent_max": 83.2,
+    "recent_drop_pp": 37.8,
+    "gyro_minmax_300ms": [
+      -85.0,
+      -51.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 154.736,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.12,
+    "command_band_rms": 0.73,
+    "throttle_at_peak": 40.4,
+    "throttle_recent_max": 40.4,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -102.0,
+      -57.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 43.696,
+    "axis": "roll",
+    "rms_8_80_dps": 7.4,
+    "command_band_rms": 0.69,
+    "throttle_at_peak": 37.6,
+    "throttle_recent_max": 59.6,
+    "recent_drop_pp": 22.0,
+    "gyro_minmax_300ms": [
+      -127.0,
+      -26.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 266.762,
+    "axis": "pitch",
+    "rms_8_80_dps": 7.25,
+    "command_band_rms": 0.85,
+    "throttle_at_peak": 36.7,
+    "throttle_recent_max": 84.5,
+    "recent_drop_pp": 47.8,
+    "gyro_minmax_300ms": [
+      -107.0,
+      -79.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 262.394,
+    "axis": "roll",
+    "rms_8_80_dps": 7.12,
+    "command_band_rms": 0.54,
+    "throttle_at_peak": 38.8,
+    "throttle_recent_max": 38.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      82.0,
+      144.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 209.07,
+    "axis": "roll",
+    "rms_8_80_dps": 7.0,
+    "command_band_rms": 0.54,
+    "throttle_at_peak": 32.9,
+    "throttle_recent_max": 32.9,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -59.0,
+      -11.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 205.935,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.93,
+    "command_band_rms": 0.31,
+    "throttle_at_peak": 66.1,
+    "throttle_recent_max": 66.1,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -57.0,
+      6.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 71.96,
+    "axis": "roll",
+    "rms_8_80_dps": 6.81,
+    "command_band_rms": 5.4,
+    "throttle_at_peak": 17.3,
+    "throttle_recent_max": 78.8,
+    "recent_drop_pp": 61.5,
+    "gyro_minmax_300ms": [
+      -209.0,
+      4.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 347.024,
+    "axis": "roll",
+    "rms_8_80_dps": 6.65,
+    "command_band_rms": 0.92,
+    "throttle_at_peak": 24.0,
+    "throttle_recent_max": 42.4,
+    "recent_drop_pp": 18.4,
+    "gyro_minmax_300ms": [
+      22.0,
+      96.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 119.285,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.32,
+    "command_band_rms": 3.44,
+    "throttle_at_peak": 69.0,
+    "throttle_recent_max": 86.9,
+    "recent_drop_pp": 17.9,
+    "gyro_minmax_300ms": [
+      -39.0,
+      63.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 254.563,
+    "axis": "roll",
+    "rms_8_80_dps": 6.29,
+    "command_band_rms": 0.8,
+    "throttle_at_peak": 44.7,
+    "throttle_recent_max": 44.7,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -12.0,
+      62.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 80.172,
+    "axis": "roll",
+    "rms_8_80_dps": 6.25,
+    "command_band_rms": 0.5,
+    "throttle_at_peak": 38.9,
+    "throttle_recent_max": 38.9,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -8.0,
+      19.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 268.652,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.14,
+    "command_band_rms": 2.78,
+    "throttle_at_peak": 93.6,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 6.4,
+    "gyro_minmax_300ms": [
+      -42.0,
+      9.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 177.302,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.5,
+    "command_band_rms": 3.5,
+    "throttle_at_peak": 29.5,
+    "throttle_recent_max": 57.0,
+    "recent_drop_pp": 27.5,
+    "gyro_minmax_300ms": [
+      -33.0,
+      62.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 202.531,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.26,
+    "command_band_rms": 3.46,
+    "throttle_at_peak": 59.1,
+    "throttle_recent_max": 82.3,
+    "recent_drop_pp": 23.2,
+    "gyro_minmax_300ms": [
+      -3.0,
+      129.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 230.658,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.23,
+    "command_band_rms": 2.41,
+    "throttle_at_peak": 47.0,
+    "throttle_recent_max": 47.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -94.0,
+      2.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 99.588,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.14,
+    "command_band_rms": 0.88,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 96.6,
+    "recent_drop_pp": 96.6,
+    "gyro_minmax_300ms": [
+      -27.0,
+      18.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 65.918,
+    "axis": "roll",
+    "rms_8_80_dps": 5.1,
+    "command_band_rms": 0.34,
+    "throttle_at_peak": 26.3,
+    "throttle_recent_max": 26.3,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -46.0,
+      -24.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 131.353,
+    "axis": "roll",
+    "rms_8_80_dps": 5.09,
+    "command_band_rms": 1.99,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 100.0,
+    "gyro_minmax_300ms": [
+      71.0,
+      120.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 40.948,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.05,
+    "command_band_rms": 4.21,
+    "throttle_at_peak": 47.6,
+    "throttle_recent_max": 65.7,
+    "recent_drop_pp": 18.1,
+    "gyro_minmax_300ms": [
+      -109.0,
+      46.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 77.475,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.05,
+    "command_band_rms": 2.18,
+    "throttle_at_peak": 73.3,
+    "throttle_recent_max": 86.9,
+    "recent_drop_pp": 13.6,
+    "gyro_minmax_300ms": [
+      -41.0,
+      58.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 197.586,
+    "axis": "roll",
+    "rms_8_80_dps": 5.04,
+    "command_band_rms": 2.17,
+    "throttle_at_peak": 67.7,
+    "throttle_recent_max": 68.1,
+    "recent_drop_pp": 0.4,
+    "gyro_minmax_300ms": [
+      -23.0,
+      116.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 250.025,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.0,
+    "command_band_rms": 1.87,
+    "throttle_at_peak": 75.6,
+    "throttle_recent_max": 75.6,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -82.0,
+      3.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 162.011,
+    "axis": "roll",
+    "rms_8_80_dps": 4.97,
+    "command_band_rms": 0.85,
+    "throttle_at_peak": 33.6,
+    "throttle_recent_max": 47.5,
+    "recent_drop_pp": 13.9,
+    "gyro_minmax_300ms": [
+      -84.0,
+      -26.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 136.875,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.77,
+    "command_band_rms": 2.62,
+    "throttle_at_peak": 60.3,
+    "throttle_recent_max": 78.2,
+    "recent_drop_pp": 17.9,
+    "gyro_minmax_300ms": [
+      0.0,
+      45.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 67.061,
+    "axis": "roll",
+    "rms_8_80_dps": 4.74,
+    "command_band_rms": 2.33,
+    "throttle_at_peak": 41.0,
+    "throttle_recent_max": 52.7,
+    "recent_drop_pp": 11.7,
+    "gyro_minmax_300ms": [
+      -4.0,
+      145.0
+    ],
+    "dominant_hz": 31.7
+  },
+  {
+    "file": "LOG00025",
+    "t": 204.638,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.74,
+    "command_band_rms": 2.14,
+    "throttle_at_peak": 27.5,
+    "throttle_recent_max": 98.1,
+    "recent_drop_pp": 70.6,
+    "gyro_minmax_300ms": [
+      -101.0,
+      7.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 290.771,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.72,
+    "command_band_rms": 5.05,
+    "throttle_at_peak": 52.3,
+    "throttle_recent_max": 55.7,
+    "recent_drop_pp": 3.4,
+    "gyro_minmax_300ms": [
+      -24.0,
+      106.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 313.551,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.65,
+    "command_band_rms": 3.58,
+    "throttle_at_peak": 45.4,
+    "throttle_recent_max": 49.0,
+    "recent_drop_pp": 3.6,
+    "gyro_minmax_300ms": [
+      -146.0,
+      47.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 182.812,
+    "axis": "roll",
+    "rms_8_80_dps": 4.59,
+    "command_band_rms": 2.03,
+    "throttle_at_peak": 52.6,
+    "throttle_recent_max": 52.9,
+    "recent_drop_pp": 0.3,
+    "gyro_minmax_300ms": [
+      -94.0,
+      17.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 325.897,
+    "axis": "roll",
+    "rms_8_80_dps": 4.58,
+    "command_band_rms": 0.88,
+    "throttle_at_peak": 30.8,
+    "throttle_recent_max": 30.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      6.0,
+      49.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 146.151,
+    "axis": "roll",
+    "rms_8_80_dps": 4.51,
+    "command_band_rms": 0.43,
+    "throttle_at_peak": 35.8,
+    "throttle_recent_max": 35.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -7.0,
+      19.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 174.133,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.51,
+    "command_band_rms": 2.75,
+    "throttle_at_peak": 55.8,
+    "throttle_recent_max": 69.7,
+    "recent_drop_pp": 13.9,
+    "gyro_minmax_300ms": [
+      -17.0,
+      144.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 141.079,
+    "axis": "roll",
+    "rms_8_80_dps": 4.38,
+    "command_band_rms": 0.37,
+    "throttle_at_peak": 27.6,
+    "throttle_recent_max": 32.8,
+    "recent_drop_pp": 5.2,
+    "gyro_minmax_300ms": [
+      61.0,
+      79.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 242.683,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.37,
+    "command_band_rms": 1.66,
+    "throttle_at_peak": 35.5,
+    "throttle_recent_max": 44.2,
+    "recent_drop_pp": 8.7,
+    "gyro_minmax_300ms": [
+      5.0,
+      45.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00025",
+    "t": 15.013,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.34,
+    "command_band_rms": 2.41,
+    "throttle_at_peak": 57.1,
+    "throttle_recent_max": 63.7,
+    "recent_drop_pp": 6.6,
+    "gyro_minmax_300ms": [
+      -44.0,
+      30.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 178.799,
+    "axis": "roll",
+    "rms_8_80_dps": 4.29,
+    "command_band_rms": 1.21,
+    "throttle_at_peak": 55.0,
+    "throttle_recent_max": 68.9,
+    "recent_drop_pp": 13.9,
+    "gyro_minmax_300ms": [
+      -132.0,
+      -31.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 75.588,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.19,
+    "command_band_rms": 3.87,
+    "throttle_at_peak": 23.5,
+    "throttle_recent_max": 67.0,
+    "recent_drop_pp": 43.5,
+    "gyro_minmax_300ms": [
+      -30.0,
+      91.0
+    ],
+    "dominant_hz": 33.6
+  },
+  {
+    "file": "LOG00025",
+    "t": 235.843,
+    "axis": "roll",
+    "rms_8_80_dps": 4.19,
+    "command_band_rms": 2.93,
+    "throttle_at_peak": 36.3,
+    "throttle_recent_max": 39.4,
+    "recent_drop_pp": 3.1,
+    "gyro_minmax_300ms": [
+      -29.0,
+      55.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 350.532,
+    "axis": "roll",
+    "rms_8_80_dps": 4.17,
+    "command_band_rms": 0.61,
+    "throttle_at_peak": 32.1,
+    "throttle_recent_max": 32.1,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -22.0,
+      2.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 47.198,
+    "axis": "roll",
+    "rms_8_80_dps": 4.13,
+    "command_band_rms": 0.38,
+    "throttle_at_peak": 29.6,
+    "throttle_recent_max": 30.3,
+    "recent_drop_pp": 0.7,
+    "gyro_minmax_300ms": [
+      -50.0,
+      -17.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00025",
+    "t": 301.878,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.04,
+    "command_band_rms": 2.56,
+    "throttle_at_peak": 43.4,
+    "throttle_recent_max": 57.8,
+    "recent_drop_pp": 14.4,
+    "gyro_minmax_300ms": [
+      -53.0,
+      32.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 136.491,
+    "axis": "roll",
+    "rms_8_80_dps": 28.83,
+    "command_band_rms": 3.2,
+    "throttle_at_peak": 50.1,
+    "throttle_recent_max": 52.3,
+    "recent_drop_pp": 2.2,
+    "gyro_minmax_300ms": [
+      -69.0,
+      59.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 172.882,
+    "axis": "roll",
+    "rms_8_80_dps": 20.18,
+    "command_band_rms": 3.04,
+    "throttle_at_peak": 52.3,
+    "throttle_recent_max": 52.6,
+    "recent_drop_pp": 0.3,
+    "gyro_minmax_300ms": [
+      -135.0,
+      49.0
+    ],
+    "dominant_hz": 29.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 132.663,
+    "axis": "roll",
+    "rms_8_80_dps": 18.99,
+    "command_band_rms": 1.28,
+    "throttle_at_peak": 40.9,
+    "throttle_recent_max": 64.6,
+    "recent_drop_pp": 23.7,
+    "gyro_minmax_300ms": [
+      -135.0,
+      3.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 218.619,
+    "axis": "roll",
+    "rms_8_80_dps": 16.26,
+    "command_band_rms": 1.19,
+    "throttle_at_peak": 51.2,
+    "throttle_recent_max": 51.2,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -65.0,
+      -15.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 68.01,
+    "axis": "roll",
+    "rms_8_80_dps": 15.71,
+    "command_band_rms": 0.28,
+    "throttle_at_peak": 41.3,
+    "throttle_recent_max": 41.3,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -60.0,
+      4.0
+    ],
+    "dominant_hz": 29.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 171.664,
+    "axis": "roll",
+    "rms_8_80_dps": 14.78,
+    "command_band_rms": 1.52,
+    "throttle_at_peak": 9.3,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 90.7,
+    "gyro_minmax_300ms": [
+      -130.0,
+      33.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 191.32,
+    "axis": "roll",
+    "rms_8_80_dps": 14.61,
+    "command_band_rms": 0.61,
+    "throttle_at_peak": 41.8,
+    "throttle_recent_max": 43.4,
+    "recent_drop_pp": 1.6,
+    "gyro_minmax_300ms": [
+      -30.0,
+      48.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 118.734,
+    "axis": "roll",
+    "rms_8_80_dps": 14.43,
+    "command_band_rms": 0.71,
+    "throttle_at_peak": 46.7,
+    "throttle_recent_max": 51.8,
+    "recent_drop_pp": 5.1,
+    "gyro_minmax_300ms": [
+      -108.0,
+      -15.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 125.08,
+    "axis": "pitch",
+    "rms_8_80_dps": 14.3,
+    "command_band_rms": 1.43,
+    "throttle_at_peak": 49.6,
+    "throttle_recent_max": 49.8,
+    "recent_drop_pp": 0.2,
+    "gyro_minmax_300ms": [
+      -60.0,
+      13.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 232.248,
+    "axis": "pitch",
+    "rms_8_80_dps": 13.34,
+    "command_band_rms": 1.16,
+    "throttle_at_peak": 45.8,
+    "throttle_recent_max": 90.4,
+    "recent_drop_pp": 44.6,
+    "gyro_minmax_300ms": [
+      -163.0,
+      -65.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 275.45,
+    "axis": "roll",
+    "rms_8_80_dps": 11.88,
+    "command_band_rms": 0.59,
+    "throttle_at_peak": 42.6,
+    "throttle_recent_max": 90.1,
+    "recent_drop_pp": 47.5,
+    "gyro_minmax_300ms": [
+      -170.0,
+      -104.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 212.289,
+    "axis": "roll",
+    "rms_8_80_dps": 9.48,
+    "command_band_rms": 0.01,
+    "throttle_at_peak": 58.6,
+    "throttle_recent_max": 58.6,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -23.0,
+      19.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 38.84,
+    "axis": "roll",
+    "rms_8_80_dps": 9.38,
+    "command_band_rms": 0.52,
+    "throttle_at_peak": 31.4,
+    "throttle_recent_max": 31.4,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -29.0,
+      15.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 254.987,
+    "axis": "roll",
+    "rms_8_80_dps": 9.25,
+    "command_band_rms": 0.64,
+    "throttle_at_peak": 42.1,
+    "throttle_recent_max": 47.3,
+    "recent_drop_pp": 5.2,
+    "gyro_minmax_300ms": [
+      -150.0,
+      -102.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 273.073,
+    "axis": "roll",
+    "rms_8_80_dps": 9.22,
+    "command_band_rms": 0.62,
+    "throttle_at_peak": 25.4,
+    "throttle_recent_max": 85.8,
+    "recent_drop_pp": 60.4,
+    "gyro_minmax_300ms": [
+      -22.0,
+      29.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 261.322,
+    "axis": "pitch",
+    "rms_8_80_dps": 9.2,
+    "command_band_rms": 0.83,
+    "throttle_at_peak": 30.5,
+    "throttle_recent_max": 83.0,
+    "recent_drop_pp": 52.5,
+    "gyro_minmax_300ms": [
+      -65.0,
+      -31.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 263.614,
+    "axis": "roll",
+    "rms_8_80_dps": 9.17,
+    "command_band_rms": 1.13,
+    "throttle_at_peak": 34.0,
+    "throttle_recent_max": 82.5,
+    "recent_drop_pp": 48.5,
+    "gyro_minmax_300ms": [
+      -171.0,
+      -130.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 158.575,
+    "axis": "roll",
+    "rms_8_80_dps": 8.88,
+    "command_band_rms": 0.68,
+    "throttle_at_peak": 25.2,
+    "throttle_recent_max": 60.5,
+    "recent_drop_pp": 35.3,
+    "gyro_minmax_300ms": [
+      -112.0,
+      -73.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 228.192,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.63,
+    "command_band_rms": 1.99,
+    "throttle_at_peak": 48.1,
+    "throttle_recent_max": 55.2,
+    "recent_drop_pp": 7.1,
+    "gyro_minmax_300ms": [
+      -125.0,
+      -80.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 203.9,
+    "axis": "roll",
+    "rms_8_80_dps": 8.54,
+    "command_band_rms": 0.51,
+    "throttle_at_peak": 31.8,
+    "throttle_recent_max": 32.1,
+    "recent_drop_pp": 0.3,
+    "gyro_minmax_300ms": [
+      -127.0,
+      -69.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 141.537,
+    "axis": "roll",
+    "rms_8_80_dps": 8.02,
+    "command_band_rms": 0.51,
+    "throttle_at_peak": 34.7,
+    "throttle_recent_max": 45.0,
+    "recent_drop_pp": 10.3,
+    "gyro_minmax_300ms": [
+      -120.0,
+      -88.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 45.313,
+    "axis": "roll",
+    "rms_8_80_dps": 7.85,
+    "command_band_rms": 2.99,
+    "throttle_at_peak": 33.2,
+    "throttle_recent_max": 36.1,
+    "recent_drop_pp": 2.9,
+    "gyro_minmax_300ms": [
+      -104.0,
+      30.0
+    ],
+    "dominant_hz": 23.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 221.658,
+    "axis": "roll",
+    "rms_8_80_dps": 7.57,
+    "command_band_rms": 1.22,
+    "throttle_at_peak": 46.3,
+    "throttle_recent_max": 58.8,
+    "recent_drop_pp": 12.5,
+    "gyro_minmax_300ms": [
+      -133.0,
+      -31.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 197.82,
+    "axis": "roll",
+    "rms_8_80_dps": 7.47,
+    "command_band_rms": 0.53,
+    "throttle_at_peak": 38.6,
+    "throttle_recent_max": 40.3,
+    "recent_drop_pp": 1.7,
+    "gyro_minmax_300ms": [
+      -105.0,
+      -68.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 97.134,
+    "axis": "pitch",
+    "rms_8_80_dps": 7.18,
+    "command_band_rms": 7.12,
+    "throttle_at_peak": 71.5,
+    "throttle_recent_max": 71.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -30.0,
+      165.0
+    ],
+    "dominant_hz": 23.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 184.122,
+    "axis": "roll",
+    "rms_8_80_dps": 6.64,
+    "command_band_rms": 1.65,
+    "throttle_at_peak": 34.9,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 65.1,
+    "gyro_minmax_300ms": [
+      -136.0,
+      -85.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 176.625,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.56,
+    "command_band_rms": 1.67,
+    "throttle_at_peak": 11.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 89.0,
+    "gyro_minmax_300ms": [
+      48.0,
+      104.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 119.938,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.47,
+    "command_band_rms": 3.54,
+    "throttle_at_peak": 49.6,
+    "throttle_recent_max": 83.7,
+    "recent_drop_pp": 34.1,
+    "gyro_minmax_300ms": [
+      -88.0,
+      98.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 189.535,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.28,
+    "command_band_rms": 4.54,
+    "throttle_at_peak": 37.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 63.0,
+    "gyro_minmax_300ms": [
+      -9.0,
+      90.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 129.585,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.15,
+    "command_band_rms": 2.78,
+    "throttle_at_peak": 55.6,
+    "throttle_recent_max": 56.6,
+    "recent_drop_pp": 1.0,
+    "gyro_minmax_300ms": [
+      -102.0,
+      16.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 93.275,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.14,
+    "command_band_rms": 2.61,
+    "throttle_at_peak": 64.0,
+    "throttle_recent_max": 93.7,
+    "recent_drop_pp": 29.7,
+    "gyro_minmax_300ms": [
+      -56.0,
+      73.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 117.564,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.12,
+    "command_band_rms": 7.71,
+    "throttle_at_peak": 17.3,
+    "throttle_recent_max": 80.7,
+    "recent_drop_pp": 63.4,
+    "gyro_minmax_300ms": [
+      -66.0,
+      126.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 220.153,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.02,
+    "command_band_rms": 5.64,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 100.0,
+    "gyro_minmax_300ms": [
+      93.0,
+      164.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 208.113,
+    "axis": "roll",
+    "rms_8_80_dps": 5.96,
+    "command_band_rms": 1.39,
+    "throttle_at_peak": 31.2,
+    "throttle_recent_max": 54.4,
+    "recent_drop_pp": 23.2,
+    "gyro_minmax_300ms": [
+      -91.0,
+      -43.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 231.053,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.93,
+    "command_band_rms": 3.06,
+    "throttle_at_peak": 89.5,
+    "throttle_recent_max": 91.4,
+    "recent_drop_pp": 1.9,
+    "gyro_minmax_300ms": [
+      -121.0,
+      94.0
+    ],
+    "dominant_hz": 27.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 101.526,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.91,
+    "command_band_rms": 4.61,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 86.4,
+    "recent_drop_pp": 86.4,
+    "gyro_minmax_300ms": [
+      52.0,
+      120.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 181.694,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.91,
+    "command_band_rms": 0.62,
+    "throttle_at_peak": 48.7,
+    "throttle_recent_max": 48.7,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -26.0,
+      9.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 99.474,
+    "axis": "roll",
+    "rms_8_80_dps": 5.79,
+    "command_band_rms": 0.54,
+    "throttle_at_peak": 42.4,
+    "throttle_recent_max": 70.6,
+    "recent_drop_pp": 28.2,
+    "gyro_minmax_300ms": [
+      -118.0,
+      -83.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 114.532,
+    "axis": "roll",
+    "rms_8_80_dps": 5.79,
+    "command_band_rms": 1.23,
+    "throttle_at_peak": 30.0,
+    "throttle_recent_max": 90.8,
+    "recent_drop_pp": 60.8,
+    "gyro_minmax_300ms": [
+      -177.0,
+      -126.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 217.123,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.67,
+    "command_band_rms": 2.64,
+    "throttle_at_peak": 38.4,
+    "throttle_recent_max": 84.1,
+    "recent_drop_pp": 45.7,
+    "gyro_minmax_300ms": [
+      -128.0,
+      100.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 72.173,
+    "axis": "roll",
+    "rms_8_80_dps": 5.64,
+    "command_band_rms": 2.89,
+    "throttle_at_peak": 28.0,
+    "throttle_recent_max": 60.7,
+    "recent_drop_pp": 32.7,
+    "gyro_minmax_300ms": [
+      -28.0,
+      65.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 121.508,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.59,
+    "command_band_rms": 1.72,
+    "throttle_at_peak": 18.5,
+    "throttle_recent_max": 20.8,
+    "recent_drop_pp": 2.3,
+    "gyro_minmax_300ms": [
+      -20.0,
+      37.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 214.995,
+    "axis": "roll",
+    "rms_8_80_dps": 5.56,
+    "command_band_rms": 4.35,
+    "throttle_at_peak": 26.0,
+    "throttle_recent_max": 26.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      85.0,
+      151.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 244.766,
+    "axis": "roll",
+    "rms_8_80_dps": 5.55,
+    "command_band_rms": 1.79,
+    "throttle_at_peak": 32.1,
+    "throttle_recent_max": 32.1,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      48.0,
+      93.0
+    ],
+    "dominant_hz": 23.7
+  },
+  {
+    "file": "LOG00023",
+    "t": 271.479,
+    "axis": "roll",
+    "rms_8_80_dps": 5.43,
+    "command_band_rms": 0.79,
+    "throttle_at_peak": 47.3,
+    "throttle_recent_max": 47.3,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -116.0,
+      -11.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 109.174,
+    "axis": "roll",
+    "rms_8_80_dps": 5.39,
+    "command_band_rms": 0.51,
+    "throttle_at_peak": 30.6,
+    "throttle_recent_max": 30.6,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      17.0,
+      74.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 235.731,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.28,
+    "command_band_rms": 3.49,
+    "throttle_at_peak": 33.9,
+    "throttle_recent_max": 57.7,
+    "recent_drop_pp": 23.8,
+    "gyro_minmax_300ms": [
+      -66.0,
+      70.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 76.162,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.27,
+    "command_band_rms": 3.83,
+    "throttle_at_peak": 13.8,
+    "throttle_recent_max": 75.6,
+    "recent_drop_pp": 61.8,
+    "gyro_minmax_300ms": [
+      62.0,
+      116.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 193.513,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.18,
+    "command_band_rms": 0.53,
+    "throttle_at_peak": 66.3,
+    "throttle_recent_max": 92.0,
+    "recent_drop_pp": 25.7,
+    "gyro_minmax_300ms": [
+      -38.0,
+      -11.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 289.01,
+    "axis": "roll",
+    "rms_8_80_dps": 5.15,
+    "command_band_rms": 1.82,
+    "throttle_at_peak": 34.5,
+    "throttle_recent_max": 43.3,
+    "recent_drop_pp": 8.8,
+    "gyro_minmax_300ms": [
+      -50.0,
+      22.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 134.397,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.08,
+    "command_band_rms": 4.46,
+    "throttle_at_peak": 36.4,
+    "throttle_recent_max": 88.4,
+    "recent_drop_pp": 52.0,
+    "gyro_minmax_300ms": [
+      -101.0,
+      -5.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 137.601,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.95,
+    "command_band_rms": 1.49,
+    "throttle_at_peak": 45.2,
+    "throttle_recent_max": 56.2,
+    "recent_drop_pp": 11.0,
+    "gyro_minmax_300ms": [
+      -10.0,
+      72.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 239.805,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.87,
+    "command_band_rms": 1.54,
+    "throttle_at_peak": 68.4,
+    "throttle_recent_max": 75.0,
+    "recent_drop_pp": 6.6,
+    "gyro_minmax_300ms": [
+      -67.0,
+      71.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 42.691,
+    "axis": "roll",
+    "rms_8_80_dps": 4.81,
+    "command_band_rms": 1.27,
+    "throttle_at_peak": 43.5,
+    "throttle_recent_max": 44.5,
+    "recent_drop_pp": 1.0,
+    "gyro_minmax_300ms": [
+      -5.0,
+      79.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 36.947,
+    "axis": "roll",
+    "rms_8_80_dps": 4.77,
+    "command_band_rms": 4.31,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 73.8,
+    "recent_drop_pp": 73.8,
+    "gyro_minmax_300ms": [
+      72.0,
+      196.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 69.44,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.63,
+    "command_band_rms": 2.13,
+    "throttle_at_peak": 83.5,
+    "throttle_recent_max": 83.5,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -10.0,
+      59.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 269.92,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.62,
+    "command_band_rms": 4.33,
+    "throttle_at_peak": 46.9,
+    "throttle_recent_max": 69.6,
+    "recent_drop_pp": 22.7,
+    "gyro_minmax_300ms": [
+      -34.0,
+      106.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 128.221,
+    "axis": "roll",
+    "rms_8_80_dps": 4.36,
+    "command_band_rms": 0.41,
+    "throttle_at_peak": 33.8,
+    "throttle_recent_max": 35.0,
+    "recent_drop_pp": 1.2,
+    "gyro_minmax_300ms": [
+      -80.0,
+      -55.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 155.649,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.31,
+    "command_band_rms": 2.87,
+    "throttle_at_peak": 37.8,
+    "throttle_recent_max": 52.5,
+    "recent_drop_pp": 14.7,
+    "gyro_minmax_300ms": [
+      -24.0,
+      80.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 237.588,
+    "axis": "roll",
+    "rms_8_80_dps": 4.21,
+    "command_band_rms": 0.46,
+    "throttle_at_peak": 37.6,
+    "throttle_recent_max": 43.8,
+    "recent_drop_pp": 6.2,
+    "gyro_minmax_300ms": [
+      -61.0,
+      -43.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 285.981,
+    "axis": "roll",
+    "rms_8_80_dps": 4.21,
+    "command_band_rms": 2.76,
+    "throttle_at_peak": 37.7,
+    "throttle_recent_max": 42.1,
+    "recent_drop_pp": 4.4,
+    "gyro_minmax_300ms": [
+      -51.0,
+      82.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 160.982,
+    "axis": "roll",
+    "rms_8_80_dps": 4.13,
+    "command_band_rms": 3.29,
+    "throttle_at_peak": 33.5,
+    "throttle_recent_max": 53.4,
+    "recent_drop_pp": 19.9,
+    "gyro_minmax_300ms": [
+      -1.0,
+      139.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00023",
+    "t": 278.105,
+    "axis": "roll",
+    "rms_8_80_dps": 4.08,
+    "command_band_rms": 1.45,
+    "throttle_at_peak": 43.6,
+    "throttle_recent_max": 43.6,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -140.0,
+      -38.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00023",
+    "t": 287.155,
+    "axis": "roll",
+    "rms_8_80_dps": 4.03,
+    "command_band_rms": 1.01,
+    "throttle_at_peak": 61.7,
+    "throttle_recent_max": 61.7,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -3.0,
+      78.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 295.083,
+    "axis": "roll",
+    "rms_8_80_dps": 25.22,
+    "command_band_rms": 1.68,
+    "throttle_at_peak": 57.6,
+    "throttle_recent_max": 63.1,
+    "recent_drop_pp": 5.5,
+    "gyro_minmax_300ms": [
+      -55.0,
+      42.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 264.536,
+    "axis": "roll",
+    "rms_8_80_dps": 16.51,
+    "command_band_rms": 0.49,
+    "throttle_at_peak": 24.7,
+    "throttle_recent_max": 35.5,
+    "recent_drop_pp": 10.8,
+    "gyro_minmax_300ms": [
+      2.0,
+      77.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 259.908,
+    "axis": "roll",
+    "rms_8_80_dps": 14.87,
+    "command_band_rms": 0.86,
+    "throttle_at_peak": 31.8,
+    "throttle_recent_max": 31.8,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -37.0,
+      43.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 262.385,
+    "axis": "pitch",
+    "rms_8_80_dps": 12.27,
+    "command_band_rms": 2.36,
+    "throttle_at_peak": 72.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 28.0,
+    "gyro_minmax_300ms": [
+      -45.0,
+      56.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 209.585,
+    "axis": "pitch",
+    "rms_8_80_dps": 12.17,
+    "command_band_rms": 7.99,
+    "throttle_at_peak": 22.6,
+    "throttle_recent_max": 23.9,
+    "recent_drop_pp": 1.3,
+    "gyro_minmax_300ms": [
+      -157.0,
+      2.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 119.454,
+    "axis": "roll",
+    "rms_8_80_dps": 11.23,
+    "command_band_rms": 0.64,
+    "throttle_at_peak": 29.0,
+    "throttle_recent_max": 29.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -13.0,
+      42.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 335.066,
+    "axis": "roll",
+    "rms_8_80_dps": 10.98,
+    "command_band_rms": 1.1,
+    "throttle_at_peak": 33.0,
+    "throttle_recent_max": 52.5,
+    "recent_drop_pp": 19.5,
+    "gyro_minmax_300ms": [
+      -97.0,
+      -50.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 126.544,
+    "axis": "roll",
+    "rms_8_80_dps": 10.88,
+    "command_band_rms": 2.83,
+    "throttle_at_peak": 30.3,
+    "throttle_recent_max": 30.3,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -62.0,
+      17.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 216.178,
+    "axis": "roll",
+    "rms_8_80_dps": 10.0,
+    "command_band_rms": 0.96,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 0.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -3.0,
+      45.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 286.825,
+    "axis": "roll",
+    "rms_8_80_dps": 9.82,
+    "command_band_rms": 0.65,
+    "throttle_at_peak": 40.4,
+    "throttle_recent_max": 40.4,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -9.0,
+      32.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 159.557,
+    "axis": "roll",
+    "rms_8_80_dps": 9.46,
+    "command_band_rms": 1.08,
+    "throttle_at_peak": 26.0,
+    "throttle_recent_max": 26.3,
+    "recent_drop_pp": 0.3,
+    "gyro_minmax_300ms": [
+      -19.0,
+      47.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 46.442,
+    "axis": "roll",
+    "rms_8_80_dps": 9.32,
+    "command_band_rms": 0.97,
+    "throttle_at_peak": 34.9,
+    "throttle_recent_max": 35.7,
+    "recent_drop_pp": 0.8,
+    "gyro_minmax_300ms": [
+      -99.0,
+      14.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 258.103,
+    "axis": "roll",
+    "rms_8_80_dps": 9.04,
+    "command_band_rms": 2.98,
+    "throttle_at_peak": 3.7,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 96.3,
+    "gyro_minmax_300ms": [
+      -99.0,
+      23.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 152.915,
+    "axis": "roll",
+    "rms_8_80_dps": 8.94,
+    "command_band_rms": 0.31,
+    "throttle_at_peak": 40.5,
+    "throttle_recent_max": 40.7,
+    "recent_drop_pp": 0.2,
+    "gyro_minmax_300ms": [
+      32.0,
+      74.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 182.471,
+    "axis": "roll",
+    "rms_8_80_dps": 8.72,
+    "command_band_rms": 0.8,
+    "throttle_at_peak": 41.0,
+    "throttle_recent_max": 41.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -34.0,
+      17.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 26.782,
+    "axis": "roll",
+    "rms_8_80_dps": 8.45,
+    "command_band_rms": 0.53,
+    "throttle_at_peak": 20.0,
+    "throttle_recent_max": 22.9,
+    "recent_drop_pp": 2.9,
+    "gyro_minmax_300ms": [
+      7.0,
+      47.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 41.77,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.15,
+    "command_band_rms": 0.5,
+    "throttle_at_peak": 23.2,
+    "throttle_recent_max": 23.2,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -37.0,
+      5.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 158.222,
+    "axis": "pitch",
+    "rms_8_80_dps": 8.06,
+    "command_band_rms": 5.99,
+    "throttle_at_peak": 3.5,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 96.5,
+    "gyro_minmax_300ms": [
+      -10.0,
+      94.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 108.476,
+    "axis": "roll",
+    "rms_8_80_dps": 7.69,
+    "command_band_rms": 2.05,
+    "throttle_at_peak": 27.8,
+    "throttle_recent_max": 31.8,
+    "recent_drop_pp": 4.0,
+    "gyro_minmax_300ms": [
+      -73.0,
+      -43.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 288.858,
+    "axis": "pitch",
+    "rms_8_80_dps": 7.59,
+    "command_band_rms": 1.02,
+    "throttle_at_peak": 33.6,
+    "throttle_recent_max": 78.6,
+    "recent_drop_pp": 45.0,
+    "gyro_minmax_300ms": [
+      -108.0,
+      -43.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 284.79,
+    "axis": "pitch",
+    "rms_8_80_dps": 7.58,
+    "command_band_rms": 2.84,
+    "throttle_at_peak": 80.4,
+    "throttle_recent_max": 80.4,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -106.0,
+      -20.0
+    ],
+    "dominant_hz": 27.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 144.082,
+    "axis": "roll",
+    "rms_8_80_dps": 7.03,
+    "command_band_rms": 1.83,
+    "throttle_at_peak": 26.8,
+    "throttle_recent_max": 54.7,
+    "recent_drop_pp": 27.9,
+    "gyro_minmax_300ms": [
+      -117.0,
+      -74.0
+    ],
+    "dominant_hz": 27.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 125.09,
+    "axis": "roll",
+    "rms_8_80_dps": 6.83,
+    "command_band_rms": 2.16,
+    "throttle_at_peak": 0.0,
+    "throttle_recent_max": 100.0,
+    "recent_drop_pp": 100.0,
+    "gyro_minmax_300ms": [
+      -168.0,
+      -107.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 117.064,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.76,
+    "command_band_rms": 0.02,
+    "throttle_at_peak": 18.2,
+    "throttle_recent_max": 94.6,
+    "recent_drop_pp": 76.4,
+    "gyro_minmax_300ms": [
+      -28.0,
+      12.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 92.555,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.67,
+    "command_band_rms": 4.16,
+    "throttle_at_peak": 19.8,
+    "throttle_recent_max": 69.1,
+    "recent_drop_pp": 49.3,
+    "gyro_minmax_300ms": [
+      -35.0,
+      57.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 162.856,
+    "axis": "roll",
+    "rms_8_80_dps": 6.22,
+    "command_band_rms": 0.72,
+    "throttle_at_peak": 30.2,
+    "throttle_recent_max": 37.6,
+    "recent_drop_pp": 7.4,
+    "gyro_minmax_300ms": [
+      -10.0,
+      44.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 278.632,
+    "axis": "pitch",
+    "rms_8_80_dps": 6.21,
+    "command_band_rms": 0.5,
+    "throttle_at_peak": 40.0,
+    "throttle_recent_max": 40.0,
+    "recent_drop_pp": 0.0,
+    "gyro_minmax_300ms": [
+      -49.0,
+      -18.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 155.993,
+    "axis": "roll",
+    "rms_8_80_dps": 6.12,
+    "command_band_rms": 1.19,
+    "throttle_at_peak": 38.2,
+    "throttle_recent_max": 70.5,
+    "recent_drop_pp": 32.3,
+    "gyro_minmax_300ms": [
+      -110.0,
+      -67.0
+    ],
+    "dominant_hz": 17.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 58.799,
+    "axis": "roll",
+    "rms_8_80_dps": 6.0,
+    "command_band_rms": 0.86,
+    "throttle_at_peak": 36.8,
+    "throttle_recent_max": 41.2,
+    "recent_drop_pp": 4.4,
+    "gyro_minmax_300ms": [
+      29.0,
+      112.0
+    ],
+    "dominant_hz": 25.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 154.341,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.91,
+    "command_band_rms": 6.11,
+    "throttle_at_peak": 57.1,
+    "throttle_recent_max": 80.8,
+    "recent_drop_pp": 23.7,
+    "gyro_minmax_300ms": [
+      -13.0,
+      141.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 21.462,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.68,
+    "command_band_rms": 5.22,
+    "throttle_at_peak": 54.1,
+    "throttle_recent_max": 78.2,
+    "recent_drop_pp": 24.1,
+    "gyro_minmax_300ms": [
+      -26.0,
+      160.0
+    ],
+    "dominant_hz": 27.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 94.731,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.67,
+    "command_band_rms": 0.52,
+    "throttle_at_peak": 37.5,
+    "throttle_recent_max": 41.7,
+    "recent_drop_pp": 4.2,
+    "gyro_minmax_300ms": [
+      -100.0,
+      -66.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 279.732,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.65,
+    "command_band_rms": 4.51,
+    "throttle_at_peak": 13.7,
+    "throttle_recent_max": 61.6,
+    "recent_drop_pp": 47.9,
+    "gyro_minmax_300ms": [
+      -64.0,
+      162.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 111.03,
+    "axis": "roll",
+    "rms_8_80_dps": 5.3,
+    "command_band_rms": 0.74,
+    "throttle_at_peak": 22.0,
+    "throttle_recent_max": 43.1,
+    "recent_drop_pp": 21.1,
+    "gyro_minmax_300ms": [
+      26.0,
+      69.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 109.665,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.22,
+    "command_band_rms": 3.45,
+    "throttle_at_peak": 41.2,
+    "throttle_recent_max": 75.0,
+    "recent_drop_pp": 33.8,
+    "gyro_minmax_300ms": [
+      -58.0,
+      79.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 114.305,
+    "axis": "roll",
+    "rms_8_80_dps": 5.19,
+    "command_band_rms": 2.22,
+    "throttle_at_peak": 26.0,
+    "throttle_recent_max": 34.9,
+    "recent_drop_pp": 8.9,
+    "gyro_minmax_300ms": [
+      -88.0,
+      10.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 6.27,
+    "axis": "pitch",
+    "rms_8_80_dps": 5.11,
+    "command_band_rms": 3.54,
+    "throttle_at_peak": 32.2,
+    "throttle_recent_max": 47.7,
+    "recent_drop_pp": 15.5,
+    "gyro_minmax_300ms": [
+      -24.0,
+      123.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 8.471,
+    "axis": "roll",
+    "rms_8_80_dps": 5.1,
+    "command_band_rms": 1.34,
+    "throttle_at_peak": 22.4,
+    "throttle_recent_max": 26.6,
+    "recent_drop_pp": 4.2,
+    "gyro_minmax_300ms": [
+      -97.0,
+      -58.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 22.941,
+    "axis": "roll",
+    "rms_8_80_dps": 4.89,
+    "command_band_rms": 1.73,
+    "throttle_at_peak": 24.6,
+    "throttle_recent_max": 67.0,
+    "recent_drop_pp": 42.4,
+    "gyro_minmax_300ms": [
+      -69.0,
+      -26.0
+    ],
+    "dominant_hz": 23.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 283.108,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.84,
+    "command_band_rms": 3.33,
+    "throttle_at_peak": 66.3,
+    "throttle_recent_max": 71.8,
+    "recent_drop_pp": 5.5,
+    "gyro_minmax_300ms": [
+      -97.0,
+      69.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 80.936,
+    "axis": "roll",
+    "rms_8_80_dps": 4.82,
+    "command_band_rms": 0.33,
+    "throttle_at_peak": 16.8,
+    "throttle_recent_max": 22.9,
+    "recent_drop_pp": 6.1,
+    "gyro_minmax_300ms": [
+      27.0,
+      47.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 48.771,
+    "axis": "roll",
+    "rms_8_80_dps": 4.79,
+    "command_band_rms": 0.4,
+    "throttle_at_peak": 20.8,
+    "throttle_recent_max": 66.4,
+    "recent_drop_pp": 45.6,
+    "gyro_minmax_300ms": [
+      87.0,
+      112.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 331.419,
+    "axis": "roll",
+    "rms_8_80_dps": 4.66,
+    "command_band_rms": 2.92,
+    "throttle_at_peak": 54.3,
+    "throttle_recent_max": 73.5,
+    "recent_drop_pp": 19.2,
+    "gyro_minmax_300ms": [
+      -2.0,
+      174.0
+    ],
+    "dominant_hz": 21.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 97.396,
+    "axis": "roll",
+    "rms_8_80_dps": 4.64,
+    "command_band_rms": 1.0,
+    "throttle_at_peak": 23.9,
+    "throttle_recent_max": 67.0,
+    "recent_drop_pp": 43.1,
+    "gyro_minmax_300ms": [
+      -143.0,
+      -109.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 51.599,
+    "axis": "roll",
+    "rms_8_80_dps": 4.62,
+    "command_band_rms": 3.02,
+    "throttle_at_peak": 8.8,
+    "throttle_recent_max": 79.4,
+    "recent_drop_pp": 70.6,
+    "gyro_minmax_300ms": [
+      -4.0,
+      64.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 29.292,
+    "axis": "roll",
+    "rms_8_80_dps": 4.6,
+    "command_band_rms": 2.32,
+    "throttle_at_peak": 28.4,
+    "throttle_recent_max": 61.1,
+    "recent_drop_pp": 32.7,
+    "gyro_minmax_300ms": [
+      10.0,
+      115.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 24.735,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.53,
+    "command_band_rms": 2.73,
+    "throttle_at_peak": 10.9,
+    "throttle_recent_max": 68.8,
+    "recent_drop_pp": 57.9,
+    "gyro_minmax_300ms": [
+      -40.0,
+      29.0
+    ],
+    "dominant_hz": 15.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 192.581,
+    "axis": "pitch",
+    "rms_8_80_dps": 4.48,
+    "command_band_rms": 1.51,
+    "throttle_at_peak": 34.4,
+    "throttle_recent_max": 40.0,
+    "recent_drop_pp": 5.6,
+    "gyro_minmax_300ms": [
+      -36.0,
+      17.0
+    ],
+    "dominant_hz": 11.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 66.149,
+    "axis": "roll",
+    "rms_8_80_dps": 4.45,
+    "command_band_rms": 1.77,
+    "throttle_at_peak": 24.4,
+    "throttle_recent_max": 74.9,
+    "recent_drop_pp": 50.5,
+    "gyro_minmax_300ms": [
+      39.0,
+      107.0
+    ],
+    "dominant_hz": 31.7
+  },
+  {
+    "file": "LOG00021",
+    "t": 151.609,
+    "axis": "roll",
+    "rms_8_80_dps": 4.4,
+    "command_band_rms": 4.06,
+    "throttle_at_peak": 15.3,
+    "throttle_recent_max": 71.3,
+    "recent_drop_pp": 56.0,
+    "gyro_minmax_300ms": [
+      28.0,
+      190.0
+    ],
+    "dominant_hz": 9.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 319.696,
+    "axis": "roll",
+    "rms_8_80_dps": 4.28,
+    "command_band_rms": 0.48,
+    "throttle_at_peak": 25.0,
+    "throttle_recent_max": 27.1,
+    "recent_drop_pp": 2.1,
+    "gyro_minmax_300ms": [
+      -10.0,
+      17.0
+    ],
+    "dominant_hz": 19.8
+  },
+  {
+    "file": "LOG00021",
+    "t": 102.365,
+    "axis": "roll",
+    "rms_8_80_dps": 4.13,
+    "command_band_rms": 0.98,
+    "throttle_at_peak": 31.9,
+    "throttle_recent_max": 38.7,
+    "recent_drop_pp": 6.8,
+    "gyro_minmax_300ms": [
+      -73.0,
+      -38.0
+    ],
+    "dominant_hz": 13.9
+  },
+  {
+    "file": "LOG00021",
+    "t": 179.035,
+    "axis": "roll",
+    "rms_8_80_dps": 4.11,
+    "command_band_rms": 1.98,
+    "throttle_at_peak": 18.7,
+    "throttle_recent_max": 82.6,
+    "recent_drop_pp": 63.9,
+    "gyro_minmax_300ms": [
+      -174.0,
+      -20.0
+    ],
+    "dominant_hz": 11.9
+  }
+]

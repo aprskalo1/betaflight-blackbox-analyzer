@@ -1,0 +1,1430 @@
+[
+  {
+    "file": "LOG00020",
+    "date_recorded": "2026-09-06T15:15:12.396+00:00",
+    "rows": 1015,
+    "duration_s": 1.000726,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      942.0,
+      1031.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 9,
+    "gps_interval_s_median": 0.09967700000000002,
+    "gps_sats": [
+      11.0,
+      12.0
+    ],
+    "gps_speed_kmh": [
+      0.072,
+      0.43199999999999994
+    ],
+    "max_speed_t": 0.189981,
+    "max_distance_home_m": 0.03424370436051226,
+    "distance_end_m": 0.027091425093591335,
+    "gps_track_length_m": 0.060449903452904984,
+    "baro_m_range": [
+      -0.41,
+      0.0
+    ],
+    "baro_start_end_m": [
+      -0.24,
+      -0.24
+    ],
+    "gps_altitude_asl_m": [
+      150.7,
+      150.7
+    ],
+    "throttle_pct": [
+      0.0,
+      0.0
+    ],
+    "throttle_mean_pct": 0.0,
+    "throttle_gt5_first_last_s": null,
+    "voltage_start_min_end": [
+      25.07,
+      24.89,
+      25.07
+    ],
+    "max_current_a": 1.82,
+    "mah_integrated": 0.2640466166666666,
+    "rssi_raw": [
+      723.0,
+      732.0
+    ],
+    "motor_raw": [
+      158.0,
+      177.0
+    ],
+    "motor_max_per_motor": [
+      173,
+      165,
+      176,
+      177
+    ],
+    "motor_pct_samples_at_2047": 0.0,
+    "rpm_max_per_motor": [
+      3714.285714285714,
+      3542.8571428571427,
+      3771.4285714285716,
+      3714.285714285714
+    ],
+    "acc_magnitude_g_max": 1.0199255637515279,
+    "max_acc_t": 0.26548,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          1.0,
+          1.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 2.0,
+        "max_error_t": 0.027634
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          1.0,
+          1.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 2.0,
+        "max_error_t": 0.271401
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          -1.0,
+          0.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 1.0,
+        "max_error_t": 0.137181
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.974,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 56836569
+        }
+      },
+      {
+        "t": 0.974,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 1.001,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 1.001,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  },
+  {
+    "file": "LOG00021",
+    "date_recorded": "2026-09-06T15:15:34.697+00:00",
+    "rows": 378814,
+    "duration_s": 373.765367,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      918.0,
+      1056.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 3728,
+    "gps_interval_s_median": 0.09916199999997843,
+    "gps_sats": [
+      12.0,
+      25.0
+    ],
+    "gps_speed_kmh": [
+      0.036,
+      134.856
+    ],
+    "max_speed_t": 124.150044,
+    "max_distance_home_m": 239.52797408198694,
+    "distance_end_m": 47.24732713684621,
+    "gps_track_length_m": 3914.351970568697,
+    "baro_m_range": [
+      -15.41,
+      53.96
+    ],
+    "baro_start_end_m": [
+      -0.24,
+      2.51
+    ],
+    "gps_altitude_asl_m": [
+      137.8,
+      190.7
+    ],
+    "throttle_pct": [
+      0.0,
+      100.0
+    ],
+    "throttle_mean_pct": 23.915892496053473,
+    "throttle_gt5_first_last_s": [
+      4.406783,
+      373.661759
+    ],
+    "voltage_start_min_end": [
+      25.04,
+      17.92,
+      21.59
+    ],
+    "max_current_a": 68.35,
+    "mah_integrated": 545.3370939111105,
+    "rssi_raw": [
+      373.0,
+      749.0
+    ],
+    "motor_raw": [
+      158.0,
+      2047.0
+    ],
+    "motor_max_per_motor": [
+      2047,
+      2047,
+      2047,
+      2047
+    ],
+    "motor_pct_samples_at_2047": 0.8130639311113106,
+    "rpm_max_per_motor": [
+      32971.42857142857,
+      33357.142857142855,
+      33357.142857142855,
+      33228.57142857143
+    ],
+    "acc_magnitude_g_max": 9.720016176225993,
+    "max_acc_t": 373.687414,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -401.0,
+          1186.0
+        ],
+        "setpoint_range_dps": [
+          -385.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 10.305452645103479,
+        "active_error_abs_p95_dps": 7.0,
+        "max_error": 531.0,
+        "max_error_t": 285.539959
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -437.0,
+          1246.0
+        ],
+        "setpoint_range_dps": [
+          -414.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 10.41878081214527,
+        "active_error_abs_p95_dps": 8.0,
+        "max_error": 593.0,
+        "max_error_t": 293.827055
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -164.0,
+          382.0
+        ],
+        "setpoint_range_dps": [
+          -160.0,
+          748.0
+        ],
+        "active_error_rms_dps": 6.376388542221652,
+        "active_error_abs_p95_dps": 4.0,
+        "max_error": 526.0,
+        "max_error_t": 158.537687
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.007,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 209.484,
+        "modes": [
+          "ARM",
+          "GPSRESCUE"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 242.521,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 373.739,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 79147445
+        }
+      },
+      {
+        "t": 0.0,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 0.007,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 1,
+          "lastFlags": 0
+        }
+      },
+      {
+        "t": 209.484,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 129,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 242.521,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 1,
+          "lastFlags": 129
+        }
+      },
+      {
+        "t": 373.739,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 373.765,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 373.765,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  },
+  {
+    "file": "LOG00022",
+    "date_recorded": "2026-09-06T15:26:30.572+00:00",
+    "rows": 812,
+    "duration_s": 0.800531,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      925.0,
+      1049.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 5,
+    "gps_interval_s_median": 0.15768800000000002,
+    "gps_sats": [
+      25.0,
+      26.0
+    ],
+    "gps_speed_kmh": [
+      0.036,
+      0.21599999999999997
+    ],
+    "max_speed_t": 0.073292,
+    "max_distance_home_m": 0.015471675176412753,
+    "distance_end_m": 0.015471675176412753,
+    "gps_track_length_m": 0.03240104205400573,
+    "baro_m_range": [
+      -0.54,
+      -0.2
+    ],
+    "baro_start_end_m": [
+      -0.37,
+      -0.37
+    ],
+    "gps_altitude_asl_m": [
+      142.4,
+      142.4
+    ],
+    "throttle_pct": [
+      0.0,
+      0.0
+    ],
+    "throttle_mean_pct": 0.0,
+    "throttle_gt5_first_last_s": null,
+    "voltage_start_min_end": [
+      25.11,
+      24.89,
+      25.11
+    ],
+    "max_current_a": 1.72,
+    "mah_integrated": 0.21610443749999997,
+    "rssi_raw": [
+      740.0,
+      773.0
+    ],
+    "motor_raw": [
+      158.0,
+      181.0
+    ],
+    "motor_max_per_motor": [
+      178,
+      170,
+      181,
+      178
+    ],
+    "motor_pct_samples_at_2047": 0.0,
+    "rpm_max_per_motor": [
+      3714.285714285714,
+      3585.714285714286,
+      3800.0,
+      3757.1428571428573
+    ],
+    "acc_magnitude_g_max": 1.0103280071150456,
+    "max_acc_t": 0.276387,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          1.0,
+          1.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 2.0,
+        "max_error_t": 0.001974
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          0.0,
+          1.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 2.0,
+        "max_error_t": 0.00099
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -1.0,
+          2.0
+        ],
+        "setpoint_range_dps": [
+          0.0,
+          0.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 2.0,
+        "max_error_t": 0.14609
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.002,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.015,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.588,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.601,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.774,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 68243702
+        }
+      },
+      {
+        "t": 0.002,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 0.015,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 1,
+          "lastFlags": 0
+        }
+      },
+      {
+        "t": 0.588,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 0.601,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 1,
+          "lastFlags": 0
+        }
+      },
+      {
+        "t": 0.774,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 0.801,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 0.801,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  },
+  {
+    "file": "LOG00023",
+    "date_recorded": "2026-09-06T15:26:50.609+00:00",
+    "rows": 306482,
+    "duration_s": 302.403427,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      917.0,
+      1056.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 2908,
+    "gps_interval_s_median": 0.09965199999999186,
+    "gps_sats": [
+      21.0,
+      28.0
+    ],
+    "gps_speed_kmh": [
+      0.0,
+      149.43599999999998
+    ],
+    "max_speed_t": 171.456684,
+    "max_distance_home_m": 104.97448264872324,
+    "distance_end_m": 18.049306242023206,
+    "gps_track_length_m": 3799.114913207172,
+    "baro_m_range": [
+      -19.72,
+      38.76
+    ],
+    "baro_start_end_m": [
+      -0.45,
+      1.63
+    ],
+    "gps_altitude_asl_m": [
+      136.4,
+      161.4
+    ],
+    "throttle_pct": [
+      0.0,
+      100.0
+    ],
+    "throttle_mean_pct": 29.4096798506927,
+    "throttle_gt5_first_last_s": [
+      14.541687,
+      302.308702
+    ],
+    "voltage_start_min_end": [
+      25.09,
+      17.98,
+      20.485
+    ],
+    "max_current_a": 40.45,
+    "mah_integrated": 547.9963779319447,
+    "rssi_raw": [
+      391.0,
+      707.0
+    ],
+    "motor_raw": [
+      158.0,
+      2047.0
+    ],
+    "motor_max_per_motor": [
+      2047,
+      2047,
+      2047,
+      2047
+    ],
+    "motor_pct_samples_at_2047": 0.8685665063527385,
+    "rpm_max_per_motor": [
+      33228.57142857143,
+      33357.142857142855,
+      33357.142857142855,
+      33228.57142857143
+    ],
+    "acc_magnitude_g_max": 7.933817106678059,
+    "max_acc_t": 93.225147,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -441.0,
+          1197.0
+        ],
+        "setpoint_range_dps": [
+          -421.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 9.072143075913429,
+        "active_error_abs_p95_dps": 10.0,
+        "max_error": 400.0,
+        "max_error_t": 272.760814
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -270.0,
+          1110.0
+        ],
+        "setpoint_range_dps": [
+          -265.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 8.883918458584638,
+        "active_error_abs_p95_dps": 11.0,
+        "max_error": 349.0,
+        "max_error_t": 135.244653
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -156.0,
+          862.0
+        ],
+        "setpoint_range_dps": [
+          -150.0,
+          861.0
+        ],
+        "active_error_rms_dps": 7.220055929228948,
+        "active_error_abs_p95_dps": 5.0,
+        "max_error": 370.0,
+        "max_error_t": 123.700712
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 302.377,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 88280856
+        }
+      },
+      {
+        "t": 302.377,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 302.403,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 302.403,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  },
+  {
+    "file": "LOG00024",
+    "date_recorded": "2026-09-06T15:36:28.474+00:00",
+    "rows": 679,
+    "duration_s": 0.669212,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      937.0,
+      1037.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 5,
+    "gps_interval_s_median": 0.10697050000000002,
+    "gps_sats": [
+      28.0,
+      29.0
+    ],
+    "gps_speed_kmh": [
+      0.072,
+      0.18
+    ],
+    "max_speed_t": 0.320047,
+    "max_distance_home_m": 0.015471677988469082,
+    "distance_end_m": 0.015471677988469082,
+    "gps_track_length_m": 0.023207516982703624,
+    "baro_m_range": [
+      0.26,
+      0.76
+    ],
+    "baro_start_end_m": [
+      0.34,
+      0.34
+    ],
+    "gps_altitude_asl_m": [
+      139.7,
+      139.7
+    ],
+    "throttle_pct": [
+      0.0,
+      0.0
+    ],
+    "throttle_mean_pct": 0.0,
+    "throttle_gt5_first_last_s": null,
+    "voltage_start_min_end": [
+      25.12,
+      24.93,
+      25.12
+    ],
+    "max_current_a": 1.8,
+    "mah_integrated": 0.19813337777777779,
+    "rssi_raw": [
+      699.0,
+      699.0
+    ],
+    "motor_raw": [
+      158.0,
+      188.0
+    ],
+    "motor_max_per_motor": [
+      182,
+      172,
+      188,
+      173
+    ],
+    "motor_pct_samples_at_2047": 0.0,
+    "rpm_max_per_motor": [
+      3728.5714285714284,
+      3571.4285714285716,
+      3857.1428571428573,
+      3728.5714285714284
+    ],
+    "acc_magnitude_g_max": 1.0117807258858857,
+    "max_acc_t": 0.243798,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          0.0,
+          1.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 2.0,
+        "max_error_t": 0.018754
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -2.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          1.0,
+          1.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 3.0,
+        "max_error_t": 0.22011
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -1.0,
+          1.0
+        ],
+        "setpoint_range_dps": [
+          0.0,
+          0.0
+        ],
+        "active_error_rms_dps": null,
+        "active_error_abs_p95_dps": null,
+        "max_error": 1.0,
+        "max_error_t": 0.002962
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.616,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.63,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 0.643,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 70152670
+        }
+      },
+      {
+        "t": 0.616,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 0.63,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 1,
+          "lastFlags": 0
+        }
+      },
+      {
+        "t": 0.643,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 0.669,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 0.669,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  },
+  {
+    "file": "LOG00025",
+    "date_recorded": "2026-09-06T15:36:42.080+00:00",
+    "rows": 363087,
+    "duration_s": 358.254141,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      921.0,
+      1053.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 3285,
+    "gps_interval_s_median": 0.10089699999998736,
+    "gps_sats": [
+      24.0,
+      31.0
+    ],
+    "gps_speed_kmh": [
+      0.0,
+      155.772
+    ],
+    "max_speed_t": 243.893143,
+    "max_distance_home_m": 87.77551824997424,
+    "distance_end_m": 19.270471738619985,
+    "gps_track_length_m": 3983.525405983818,
+    "baro_m_range": [
+      -36.39,
+      50.85
+    ],
+    "baro_start_end_m": [
+      0.43,
+      1.44
+    ],
+    "gps_altitude_asl_m": [
+      136.3,
+      168.9
+    ],
+    "throttle_pct": [
+      0.0,
+      100.0
+    ],
+    "throttle_mean_pct": 28.152719045297687,
+    "throttle_gt5_first_last_s": [
+      5.791948,
+      358.254141
+    ],
+    "voltage_start_min_end": [
+      25.1,
+      17.55,
+      21.71
+    ],
+    "max_current_a": 39.47,
+    "mah_integrated": 603.1614404208332,
+    "rssi_raw": [
+      379.0,
+      737.0
+    ],
+    "motor_raw": [
+      158.0,
+      2047.0
+    ],
+    "motor_max_per_motor": [
+      2047,
+      2047,
+      2047,
+      2047
+    ],
+    "motor_pct_samples_at_2047": 0.9818583424909181,
+    "rpm_max_per_motor": [
+      31857.14285714286,
+      33228.57142857143,
+      33228.57142857143,
+      33228.57142857143
+    ],
+    "acc_magnitude_g_max": 7.687080216770456,
+    "max_acc_t": 120.865308,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -623.0,
+          1161.0
+        ],
+        "setpoint_range_dps": [
+          -581.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 10.243298161047786,
+        "active_error_abs_p95_dps": 8.0,
+        "max_error": 463.0,
+        "max_error_t": 226.814871
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -292.0,
+          1180.0
+        ],
+        "setpoint_range_dps": [
+          -284.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 12.165322334393164,
+        "active_error_abs_p95_dps": 10.0,
+        "max_error": 592.0,
+        "max_error_t": 226.320557
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -158.0,
+          679.0
+        ],
+        "setpoint_range_dps": [
+          -156.0,
+          861.0
+        ],
+        "active_error_rms_dps": 9.83143951536443,
+        "active_error_abs_p95_dps": 5.0,
+        "max_error": 487.0,
+        "max_error_t": 226.824783
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 358.227,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 83760853
+        }
+      },
+      {
+        "t": 358.227,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 358.254,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 358.254,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  },
+  {
+    "file": "LOG00026",
+    "date_recorded": "2026-09-06T15:47:25.443+00:00",
+    "rows": 376912,
+    "duration_s": 371.897489,
+    "sample_interval_us_median": 987.0,
+    "sample_interval_us_range": [
+      917.0,
+      1056.0
+    ],
+    "iteration_step_range": [
+      4.0,
+      4.0
+    ],
+    "gaps_gt_1_5ms": 0,
+    "invalid_frames": 0,
+    "gps_rows": 3475,
+    "gps_interval_s_median": 0.10064099999999598,
+    "gps_sats": [
+      25.0,
+      30.0
+    ],
+    "gps_speed_kmh": [
+      0.0,
+      127.87199999999999
+    ],
+    "max_speed_t": 263.728736,
+    "max_distance_home_m": 90.03639568210136,
+    "distance_end_m": 46.062408464922896,
+    "gps_track_length_m": 3865.9186349398647,
+    "baro_m_range": [
+      -21.98,
+      47.43
+    ],
+    "baro_start_end_m": [
+      0.04,
+      1.88
+    ],
+    "gps_altitude_asl_m": [
+      138.9,
+      165.9
+    ],
+    "throttle_pct": [
+      0.0,
+      100.0
+    ],
+    "throttle_mean_pct": 27.000815044360486,
+    "throttle_gt5_first_last_s": [
+      2.288031,
+      371.727768
+    ],
+    "voltage_start_min_end": [
+      25.11,
+      17.96,
+      21.6
+    ],
+    "max_current_a": 46.27,
+    "mah_integrated": 603.1767850111113,
+    "rssi_raw": [
+      389.0,
+      744.0
+    ],
+    "motor_raw": [
+      158.0,
+      2047.0
+    ],
+    "motor_max_per_motor": [
+      2047,
+      2047,
+      2047,
+      2047
+    ],
+    "motor_pct_samples_at_2047": 0.9983762788130917,
+    "rpm_max_per_motor": [
+      31742.85714285714,
+      33228.57142857143,
+      30728.571428571428,
+      33228.57142857143
+    ],
+    "acc_magnitude_g_max": 7.300193195529991,
+    "max_acc_t": 125.85168,
+    "axes": {
+      "roll": {
+        "gyro_range_dps": [
+          -468.0,
+          1173.0
+        ],
+        "setpoint_range_dps": [
+          -448.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 13.657103372054275,
+        "active_error_abs_p95_dps": 9.0,
+        "max_error": 492.0,
+        "max_error_t": 286.632649
+      },
+      "pitch": {
+        "gyro_range_dps": [
+          -213.0,
+          1179.0
+        ],
+        "setpoint_range_dps": [
+          -207.0,
+          1170.0
+        ],
+        "active_error_rms_dps": 17.321172770765504,
+        "active_error_abs_p95_dps": 11.0,
+        "max_error": 649.0,
+        "max_error_t": 121.038719
+      },
+      "yaw": {
+        "gyro_range_dps": [
+          -248.0,
+          593.0
+        ],
+        "setpoint_range_dps": [
+          -238.0,
+          861.0
+        ],
+        "active_error_rms_dps": 20.947276240887817,
+        "active_error_abs_p95_dps": 5.0,
+        "max_error": 639.0,
+        "max_error_t": 127.000159
+      }
+    },
+    "modes": [
+      {
+        "t": 0.0,
+        "modes": [
+          "ARM"
+        ],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      },
+      {
+        "t": 371.871,
+        "modes": [],
+        "state": 7,
+        "failsafe": 0,
+        "rx": 1,
+        "channels_valid": 1
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "event": "SYNC_BEEP",
+        "data": {
+          "time": 77430323
+        }
+      },
+      {
+        "t": 371.871,
+        "event": "FLIGHT_MODE",
+        "data": {
+          "newFlags": 0,
+          "lastFlags": 1
+        }
+      },
+      {
+        "t": 371.897,
+        "event": "DISARM",
+        "data": {
+          "reason": 4
+        }
+      },
+      {
+        "t": 371.897,
+        "event": "LOG_END",
+        "data": {}
+      }
+    ],
+    "PIDs": {
+      "rollPID": "45,80,40",
+      "pitchPID": "47,84,46",
+      "yawPID": "45,80,0",
+      "d_min": "30,34,0",
+      "ff_weight": "120,125,120"
+    }
+  }
+]

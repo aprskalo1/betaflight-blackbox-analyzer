@@ -1,0 +1,24 @@
+# Local dependencies, upstream parser checkout, and generated Node adapter
+analysis/tools/
+node_modules/
+.venv/
+
+# IDE and interpreter state
+.idea/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Full decoded flight CSVs can be regenerated from the tracked BFL files.
+analysis/decoded/*.csv
+analysis/*/decoded/*.csv
+
+# Console transcripts
+**/run_output.txt
+analysis/shaking/scan_output.txt
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example

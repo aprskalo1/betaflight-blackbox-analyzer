@@ -1,0 +1,1381 @@
+{
+  "LOG00021": {
+    "min_voltage_100ms": 20.00752475247525,
+    "min_voltage_100ms_t": 293.308065,
+    "gps_max_alt_relative_m": 39.8,
+    "fast_rotation_episodes": {
+      "roll": [
+        {
+          "start_s": 28.875,
+          "end_s": 28.919,
+          "peak_dps": 537,
+          "rotation_during_fast_part_deg": 22.9
+        },
+        {
+          "start_s": 51.901,
+          "end_s": 52.091,
+          "peak_dps": 1183,
+          "rotation_during_fast_part_deg": 203.7
+        },
+        {
+          "start_s": 57.938,
+          "end_s": 58.008,
+          "peak_dps": 708,
+          "rotation_during_fast_part_deg": 44.9
+        },
+        {
+          "start_s": 65.79,
+          "end_s": 65.923,
+          "peak_dps": 943,
+          "rotation_during_fast_part_deg": 102.1
+        },
+        {
+          "start_s": 158.499,
+          "end_s": 158.609,
+          "peak_dps": 1138,
+          "rotation_during_fast_part_deg": 100.7
+        },
+        {
+          "start_s": 162.249,
+          "end_s": 162.37,
+          "peak_dps": 1156,
+          "rotation_during_fast_part_deg": 111.0
+        },
+        {
+          "start_s": 285.541,
+          "end_s": 285.719,
+          "peak_dps": 1186,
+          "rotation_during_fast_part_deg": 190.3
+        },
+        {
+          "start_s": 294.183,
+          "end_s": 294.336,
+          "peak_dps": 1182,
+          "rotation_during_fast_part_deg": 156.3
+        }
+      ],
+      "pitch": [
+        {
+          "start_s": 65.151,
+          "end_s": 65.27,
+          "peak_dps": 1009,
+          "rotation_during_fast_part_deg": 92.7
+        },
+        {
+          "start_s": 157.917,
+          "end_s": 158.008,
+          "peak_dps": 1078,
+          "rotation_during_fast_part_deg": 77.8
+        },
+        {
+          "start_s": 161.736,
+          "end_s": 161.818,
+          "peak_dps": 982,
+          "rotation_during_fast_part_deg": 65.0
+        },
+        {
+          "start_s": 293.68,
+          "end_s": 293.846,
+          "peak_dps": 1246,
+          "rotation_during_fast_part_deg": 170.8
+        }
+      ],
+      "yaw": []
+    },
+    "samples": [
+      {
+        "t": 0.0,
+        "distance_home_m": 0.4,
+        "gps_alt_relative_m": 0.0,
+        "baro_m": 0.1,
+        "speed_kmh": 0.1,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          -1,
+          0
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 200.0,
+        "distance_home_m": 207.1,
+        "gps_alt_relative_m": -4.2,
+        "baro_m": 13.8,
+        "speed_kmh": 72.3,
+        "throttle_pct": 24.5,
+        "gyro": [
+          -64,
+          3,
+          52
+        ],
+        "setpoint": [
+          -64,
+          1,
+          53
+        ]
+      },
+      {
+        "t": 209.484,
+        "distance_home_m": 239.5,
+        "gps_alt_relative_m": 1.4,
+        "baro_m": 19.6,
+        "speed_kmh": 50.4,
+        "throttle_pct": 23.6,
+        "gyro": [
+          -2,
+          1,
+          -12
+        ],
+        "setpoint": [
+          1,
+          1,
+          -9
+        ]
+      },
+      {
+        "t": 215.0,
+        "distance_home_m": 235.8,
+        "gps_alt_relative_m": 39.8,
+        "baro_m": 48.6,
+        "speed_kmh": 16.1,
+        "throttle_pct": 0.0,
+        "gyro": [
+          20,
+          48,
+          -36
+        ],
+        "setpoint": [
+          14,
+          47,
+          -36
+        ]
+      },
+      {
+        "t": 220.0,
+        "distance_home_m": 210.5,
+        "gps_alt_relative_m": 32.4,
+        "baro_m": 44.6,
+        "speed_kmh": 28.7,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          0,
+          2
+        ],
+        "setpoint": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "t": 230.0,
+        "distance_home_m": 138.4,
+        "gps_alt_relative_m": 32.4,
+        "baro_m": 44.6,
+        "speed_kmh": 26.6,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          0,
+          1
+        ],
+        "setpoint": [
+          -1,
+          0,
+          1
+        ]
+      },
+      {
+        "t": 240.0,
+        "distance_home_m": 63.9,
+        "gps_alt_relative_m": 32.6,
+        "baro_m": 45.1,
+        "speed_kmh": 27.4,
+        "throttle_pct": 0.0,
+        "gyro": [
+          -1,
+          4,
+          1
+        ],
+        "setpoint": [
+          1,
+          3,
+          1
+        ]
+      },
+      {
+        "t": 242.521,
+        "distance_home_m": 45.2,
+        "gps_alt_relative_m": 32.7,
+        "baro_m": 44.8,
+        "speed_kmh": 26.6,
+        "throttle_pct": 0.0,
+        "gyro": [
+          -1,
+          -1,
+          0
+        ],
+        "setpoint": [
+          -1,
+          -2,
+          1
+        ]
+      },
+      {
+        "t": 250.0,
+        "distance_home_m": 62.6,
+        "gps_alt_relative_m": 4.0,
+        "baro_m": 16.5,
+        "speed_kmh": 51.7,
+        "throttle_pct": 20.7,
+        "gyro": [
+          -1,
+          1,
+          6
+        ],
+        "setpoint": [
+          -1,
+          1,
+          8
+        ]
+      },
+      {
+        "t": 373.7,
+        "distance_home_m": 47.2,
+        "gps_alt_relative_m": -8.9,
+        "baro_m": 0.8,
+        "speed_kmh": 2.3,
+        "throttle_pct": 1.8,
+        "gyro": [
+          -153,
+          24,
+          -80
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  "LOG00023": {
+    "min_voltage_100ms": 19.799900990099008,
+    "min_voltage_100ms_t": 274.385886,
+    "gps_max_alt_relative_m": 18.7,
+    "fast_rotation_episodes": {
+      "roll": [
+        {
+          "start_s": 77.002,
+          "end_s": 77.201,
+          "peak_dps": 1189,
+          "rotation_during_fast_part_deg": 184.1
+        },
+        {
+          "start_s": 123.678,
+          "end_s": 123.756,
+          "peak_dps": 969,
+          "rotation_during_fast_part_deg": 61.1
+        },
+        {
+          "start_s": 210.091,
+          "end_s": 210.18,
+          "peak_dps": 802,
+          "rotation_during_fast_part_deg": 60.7
+        },
+        {
+          "start_s": 220.556,
+          "end_s": 220.712,
+          "peak_dps": 787,
+          "rotation_during_fast_part_deg": 106.5
+        },
+        {
+          "start_s": 249.931,
+          "end_s": 250.034,
+          "peak_dps": 931,
+          "rotation_during_fast_part_deg": 78.8
+        },
+        {
+          "start_s": 272.668,
+          "end_s": 272.779,
+          "peak_dps": 1197,
+          "rotation_during_fast_part_deg": 111.0
+        }
+      ],
+      "pitch": [
+        {
+          "start_s": 76.559,
+          "end_s": 76.653,
+          "peak_dps": 734,
+          "rotation_during_fast_part_deg": 61.3
+        },
+        {
+          "start_s": 135.147,
+          "end_s": 135.272,
+          "peak_dps": 1110,
+          "rotation_during_fast_part_deg": 112.2
+        },
+        {
+          "start_s": 213.743,
+          "end_s": 213.773,
+          "peak_dps": 541,
+          "rotation_during_fast_part_deg": 15.6
+        }
+      ],
+      "yaw": [
+        {
+          "start_s": 220.582,
+          "end_s": 220.727,
+          "peak_dps": 862,
+          "rotation_during_fast_part_deg": 98.4
+        }
+      ]
+    },
+    "samples": [
+      {
+        "t": 0.0,
+        "distance_home_m": 0.4,
+        "gps_alt_relative_m": 0.0,
+        "baro_m": -0.2,
+        "speed_kmh": 0.1,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          0,
+          0
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 3.0,
+        "distance_home_m": 0.5,
+        "gps_alt_relative_m": 0.0,
+        "baro_m": -0.5,
+        "speed_kmh": 0.1,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          0,
+          0
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 30.0,
+        "distance_home_m": 49.0,
+        "gps_alt_relative_m": 4.9,
+        "baro_m": 13.1,
+        "speed_kmh": 49.1,
+        "throttle_pct": 24.7,
+        "gyro": [
+          -53,
+          4,
+          1
+        ],
+        "setpoint": [
+          -51,
+          4,
+          0
+        ]
+      },
+      {
+        "t": 60.0,
+        "distance_home_m": 16.2,
+        "gps_alt_relative_m": -0.1,
+        "baro_m": 4.5,
+        "speed_kmh": 36.3,
+        "throttle_pct": 19.4,
+        "gyro": [
+          2,
+          -9,
+          22
+        ],
+        "setpoint": [
+          1,
+          -10,
+          22
+        ]
+      },
+      {
+        "t": 70.0,
+        "distance_home_m": 41.1,
+        "gps_alt_relative_m": -3.5,
+        "baro_m": 4.3,
+        "speed_kmh": 74.6,
+        "throttle_pct": 23.8,
+        "gyro": [
+          -33,
+          22,
+          -1
+        ],
+        "setpoint": [
+          -35,
+          19,
+          0
+        ]
+      },
+      {
+        "t": 120.0,
+        "distance_home_m": 36.6,
+        "gps_alt_relative_m": -2.2,
+        "baro_m": 8.8,
+        "speed_kmh": 43.3,
+        "throttle_pct": 82.5,
+        "gyro": [
+          12,
+          -36,
+          5
+        ],
+        "setpoint": [
+          5,
+          -56,
+          0
+        ]
+      },
+      {
+        "t": 127.0,
+        "distance_home_m": 17.1,
+        "gps_alt_relative_m": 2.4,
+        "baro_m": 7.8,
+        "speed_kmh": 62.2,
+        "throttle_pct": 27.1,
+        "gyro": [
+          -66,
+          -30,
+          37
+        ],
+        "setpoint": [
+          -66,
+          -30,
+          37
+        ]
+      },
+      {
+        "t": 150.0,
+        "distance_home_m": 81.5,
+        "gps_alt_relative_m": -0.8,
+        "baro_m": 0.2,
+        "speed_kmh": 22.6,
+        "throttle_pct": 28.4,
+        "gyro": [
+          -50,
+          -1,
+          56
+        ],
+        "setpoint": [
+          -50,
+          2,
+          57
+        ]
+      },
+      {
+        "t": 200.0,
+        "distance_home_m": 38.4,
+        "gps_alt_relative_m": 1.2,
+        "baro_m": 6.4,
+        "speed_kmh": 28.4,
+        "throttle_pct": 32.6,
+        "gyro": [
+          0,
+          -12,
+          1
+        ],
+        "setpoint": [
+          1,
+          -12,
+          0
+        ]
+      },
+      {
+        "t": 250.0,
+        "distance_home_m": 27.6,
+        "gps_alt_relative_m": 9.0,
+        "baro_m": 15.2,
+        "speed_kmh": 51.6,
+        "throttle_pct": 0.0,
+        "gyro": [
+          803,
+          67,
+          -3
+        ],
+        "setpoint": [
+          696,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 263.7,
+        "distance_home_m": 44.6,
+        "gps_alt_relative_m": -0.9,
+        "baro_m": -4.9,
+        "speed_kmh": 90.5,
+        "throttle_pct": 34.0,
+        "gyro": [
+          -148,
+          -51,
+          63
+        ],
+        "setpoint": [
+          -150,
+          -47,
+          60
+        ]
+      },
+      {
+        "t": 300.0,
+        "distance_home_m": 18.0,
+        "gps_alt_relative_m": -3.6,
+        "baro_m": 0.3,
+        "speed_kmh": 6.9,
+        "throttle_pct": 25.0,
+        "gyro": [
+          -4,
+          2,
+          -1
+        ],
+        "setpoint": [
+          -6,
+          5,
+          0
+        ]
+      },
+      {
+        "t": 302.403,
+        "distance_home_m": 18.0,
+        "gps_alt_relative_m": -4.2,
+        "baro_m": -0.4,
+        "speed_kmh": 8.8,
+        "throttle_pct": 0.0,
+        "gyro": [
+          -4,
+          4,
+          20
+        ],
+        "setpoint": [
+          1,
+          1,
+          25
+        ]
+      }
+    ]
+  },
+  "LOG00025": {
+    "min_voltage_100ms": 20.12217821782178,
+    "min_voltage_100ms_t": 268.577343,
+    "gps_max_alt_relative_m": 29.7,
+    "fast_rotation_episodes": {
+      "roll": [
+        {
+          "start_s": 100.454,
+          "end_s": 100.541,
+          "peak_dps": 1059,
+          "rotation_during_fast_part_deg": 75.7
+        },
+        {
+          "start_s": 126.789,
+          "end_s": 126.932,
+          "peak_dps": 819,
+          "rotation_during_fast_part_deg": 102.0
+        },
+        {
+          "start_s": 130.839,
+          "end_s": 130.919,
+          "peak_dps": 873,
+          "rotation_during_fast_part_deg": 56.4
+        },
+        {
+          "start_s": 131.641,
+          "end_s": 131.692,
+          "peak_dps": 609,
+          "rotation_during_fast_part_deg": 29.4
+        },
+        {
+          "start_s": 144.32,
+          "end_s": 144.399,
+          "peak_dps": 623,
+          "rotation_during_fast_part_deg": -45.3
+        },
+        {
+          "start_s": 147.964,
+          "end_s": 148.055,
+          "peak_dps": 836,
+          "rotation_during_fast_part_deg": 68.0
+        },
+        {
+          "start_s": 204.296,
+          "end_s": 204.39,
+          "peak_dps": 948,
+          "rotation_during_fast_part_deg": 73.8
+        },
+        {
+          "start_s": 213.979,
+          "end_s": 214.104,
+          "peak_dps": 1161,
+          "rotation_during_fast_part_deg": 119.7
+        },
+        {
+          "start_s": 226.81,
+          "end_s": 226.939,
+          "peak_dps": 1122,
+          "rotation_during_fast_part_deg": 126.2
+        },
+        {
+          "start_s": 252.946,
+          "end_s": 253.02,
+          "peak_dps": 672,
+          "rotation_during_fast_part_deg": 45.3
+        },
+        {
+          "start_s": 269.469,
+          "end_s": 269.569,
+          "peak_dps": 1132,
+          "rotation_during_fast_part_deg": 89.7
+        }
+      ],
+      "pitch": [
+        {
+          "start_s": 126.115,
+          "end_s": 126.163,
+          "peak_dps": 534,
+          "rotation_during_fast_part_deg": 24.7
+        },
+        {
+          "start_s": 147.318,
+          "end_s": 147.444,
+          "peak_dps": 1138,
+          "rotation_during_fast_part_deg": 113.5
+        },
+        {
+          "start_s": 213.469,
+          "end_s": 213.582,
+          "peak_dps": 1053,
+          "rotation_during_fast_part_deg": 98.1
+        },
+        {
+          "start_s": 226.21,
+          "end_s": 226.338,
+          "peak_dps": 1180,
+          "rotation_during_fast_part_deg": 121.0
+        },
+        {
+          "start_s": 268.981,
+          "end_s": 269.108,
+          "peak_dps": 1029,
+          "rotation_during_fast_part_deg": 107.5
+        }
+      ],
+      "yaw": [
+        {
+          "start_s": 126.784,
+          "end_s": 126.883,
+          "peak_dps": 679,
+          "rotation_during_fast_part_deg": 59.8
+        }
+      ]
+    },
+    "samples": [
+      {
+        "t": 0.0,
+        "distance_home_m": 0.4,
+        "gps_alt_relative_m": 0.0,
+        "baro_m": 0.9,
+        "speed_kmh": 0.2,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          -1,
+          1
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 3.0,
+        "distance_home_m": 0.4,
+        "gps_alt_relative_m": -0.1,
+        "baro_m": 0.4,
+        "speed_kmh": 0.1,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          0,
+          0
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 30.0,
+        "distance_home_m": 20.7,
+        "gps_alt_relative_m": 4.2,
+        "baro_m": 3.5,
+        "speed_kmh": 34.2,
+        "throttle_pct": 24.4,
+        "gyro": [
+          -30,
+          -14,
+          42
+        ],
+        "setpoint": [
+          -30,
+          -14,
+          42
+        ]
+      },
+      {
+        "t": 60.0,
+        "distance_home_m": 10.6,
+        "gps_alt_relative_m": 20.0,
+        "baro_m": 23.8,
+        "speed_kmh": 35.9,
+        "throttle_pct": 22.6,
+        "gyro": [
+          17,
+          3,
+          -18
+        ],
+        "setpoint": [
+          17,
+          1,
+          -19
+        ]
+      },
+      {
+        "t": 70.0,
+        "distance_home_m": 21.0,
+        "gps_alt_relative_m": 9.8,
+        "baro_m": 16.9,
+        "speed_kmh": 73.0,
+        "throttle_pct": 28.2,
+        "gyro": [
+          -18,
+          -1,
+          -1
+        ],
+        "setpoint": [
+          -18,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 120.0,
+        "distance_home_m": 27.6,
+        "gps_alt_relative_m": 10.8,
+        "baro_m": 2.8,
+        "speed_kmh": 46.3,
+        "throttle_pct": 23.2,
+        "gyro": [
+          -182,
+          -53,
+          94
+        ],
+        "setpoint": [
+          -178,
+          -58,
+          92
+        ]
+      },
+      {
+        "t": 127.0,
+        "distance_home_m": 21.4,
+        "gps_alt_relative_m": 20.1,
+        "baro_m": 27.2,
+        "speed_kmh": 54.8,
+        "throttle_pct": 13.0,
+        "gyro": [
+          97,
+          -20,
+          70
+        ],
+        "setpoint": [
+          107,
+          -4,
+          79
+        ]
+      },
+      {
+        "t": 150.0,
+        "distance_home_m": 48.6,
+        "gps_alt_relative_m": 7.7,
+        "baro_m": 11.3,
+        "speed_kmh": 19.1,
+        "throttle_pct": 41.0,
+        "gyro": [
+          4,
+          -22,
+          -1
+        ],
+        "setpoint": [
+          1,
+          -18,
+          1
+        ]
+      },
+      {
+        "t": 200.0,
+        "distance_home_m": 22.9,
+        "gps_alt_relative_m": 13.0,
+        "baro_m": 19.2,
+        "speed_kmh": 128.3,
+        "throttle_pct": 100.0,
+        "gyro": [
+          -29,
+          2,
+          -2
+        ],
+        "setpoint": [
+          -26,
+          1,
+          -1
+        ]
+      },
+      {
+        "t": 250.0,
+        "distance_home_m": 22.8,
+        "gps_alt_relative_m": 4.1,
+        "baro_m": 11.6,
+        "speed_kmh": 71.6,
+        "throttle_pct": 65.0,
+        "gyro": [
+          -10,
+          -33,
+          -3
+        ],
+        "setpoint": [
+          0,
+          -26,
+          0
+        ]
+      },
+      {
+        "t": 263.7,
+        "distance_home_m": 9.7,
+        "gps_alt_relative_m": 12.8,
+        "baro_m": 16.4,
+        "speed_kmh": 42.8,
+        "throttle_pct": 18.9,
+        "gyro": [
+          322,
+          5,
+          -91
+        ],
+        "setpoint": [
+          301,
+          1,
+          -86
+        ]
+      },
+      {
+        "t": 300.0,
+        "distance_home_m": 12.3,
+        "gps_alt_relative_m": 9.0,
+        "baro_m": 10.1,
+        "speed_kmh": 22.4,
+        "throttle_pct": 22.1,
+        "gyro": [
+          -54,
+          2,
+          72
+        ],
+        "setpoint": [
+          -55,
+          0,
+          71
+        ]
+      },
+      {
+        "t": 340.0,
+        "distance_home_m": 14.0,
+        "gps_alt_relative_m": 3.2,
+        "baro_m": 1.9,
+        "speed_kmh": 1.7,
+        "throttle_pct": 23.8,
+        "gyro": [
+          1,
+          -13,
+          9
+        ],
+        "setpoint": [
+          0,
+          -11,
+          8
+        ]
+      },
+      {
+        "t": 358.254,
+        "distance_home_m": 19.3,
+        "gps_alt_relative_m": 1.8,
+        "baro_m": 0.0,
+        "speed_kmh": 1.8,
+        "throttle_pct": 13.1,
+        "gyro": [
+          -30,
+          90,
+          -10
+        ],
+        "setpoint": [
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  "LOG00026": {
+    "min_voltage_100ms": 20.099999999999998,
+    "min_voltage_100ms_t": 315.298417,
+    "gps_max_alt_relative_m": 23.5,
+    "fast_rotation_episodes": {
+      "roll": [
+        {
+          "start_s": 77.172,
+          "end_s": 77.286,
+          "peak_dps": 1037,
+          "rotation_during_fast_part_deg": 98.4
+        },
+        {
+          "start_s": 83.584,
+          "end_s": 83.65,
+          "peak_dps": 663,
+          "rotation_during_fast_part_deg": 40.0
+        },
+        {
+          "start_s": 84.188,
+          "end_s": 84.278,
+          "peak_dps": 755,
+          "rotation_during_fast_part_deg": 60.9
+        },
+        {
+          "start_s": 121.667,
+          "end_s": 121.831,
+          "peak_dps": 1115,
+          "rotation_during_fast_part_deg": 161.0
+        },
+        {
+          "start_s": 126.977,
+          "end_s": 127.113,
+          "peak_dps": 1109,
+          "rotation_during_fast_part_deg": 129.4
+        },
+        {
+          "start_s": 134.991,
+          "end_s": 135.098,
+          "peak_dps": 858,
+          "rotation_during_fast_part_deg": 76.7
+        },
+        {
+          "start_s": 135.825,
+          "end_s": 135.95,
+          "peak_dps": 1173,
+          "rotation_during_fast_part_deg": 129.5
+        },
+        {
+          "start_s": 147.556,
+          "end_s": 147.676,
+          "peak_dps": 1106,
+          "rotation_during_fast_part_deg": 113.1
+        },
+        {
+          "start_s": 230.354,
+          "end_s": 230.484,
+          "peak_dps": 1135,
+          "rotation_during_fast_part_deg": 123.4
+        },
+        {
+          "start_s": 250.023,
+          "end_s": 250.098,
+          "peak_dps": 779,
+          "rotation_during_fast_part_deg": 50.7
+        },
+        {
+          "start_s": 275.579,
+          "end_s": 275.69,
+          "peak_dps": 1117,
+          "rotation_during_fast_part_deg": 100.1
+        },
+        {
+          "start_s": 286.628,
+          "end_s": 286.75,
+          "peak_dps": 1101,
+          "rotation_during_fast_part_deg": 117.2
+        }
+      ],
+      "pitch": [
+        {
+          "start_s": 76.423,
+          "end_s": 76.525,
+          "peak_dps": 835,
+          "rotation_during_fast_part_deg": 71.8
+        },
+        {
+          "start_s": 120.941,
+          "end_s": 121.061,
+          "peak_dps": 1173,
+          "rotation_during_fast_part_deg": 117.1
+        },
+        {
+          "start_s": 126.377,
+          "end_s": 126.495,
+          "peak_dps": 1164,
+          "rotation_during_fast_part_deg": 112.4
+        },
+        {
+          "start_s": 137.979,
+          "end_s": 138.084,
+          "peak_dps": 1046,
+          "rotation_during_fast_part_deg": 88.4
+        },
+        {
+          "start_s": 138.52,
+          "end_s": 138.693,
+          "peak_dps": 1176,
+          "rotation_during_fast_part_deg": 161.7
+        },
+        {
+          "start_s": 138.923,
+          "end_s": 138.966,
+          "peak_dps": 568,
+          "rotation_during_fast_part_deg": 23.8
+        },
+        {
+          "start_s": 147.061,
+          "end_s": 147.177,
+          "peak_dps": 1179,
+          "rotation_during_fast_part_deg": 113.4
+        },
+        {
+          "start_s": 229.886,
+          "end_s": 230.016,
+          "peak_dps": 1128,
+          "rotation_during_fast_part_deg": 122.8
+        },
+        {
+          "start_s": 275.043,
+          "end_s": 275.169,
+          "peak_dps": 1110,
+          "rotation_during_fast_part_deg": 116.8
+        },
+        {
+          "start_s": 286.131,
+          "end_s": 286.257,
+          "peak_dps": 1160,
+          "rotation_during_fast_part_deg": 120.3
+        }
+      ],
+      "yaw": [
+        {
+          "start_s": 77.239,
+          "end_s": 77.275,
+          "peak_dps": 559,
+          "rotation_during_fast_part_deg": 19.6
+        },
+        {
+          "start_s": 121.772,
+          "end_s": 121.807,
+          "peak_dps": 593,
+          "rotation_during_fast_part_deg": 19.7
+        },
+        {
+          "start_s": 230.428,
+          "end_s": 230.457,
+          "peak_dps": 573,
+          "rotation_during_fast_part_deg": 16.1
+        }
+      ]
+    },
+    "samples": [
+      {
+        "t": 0.0,
+        "distance_home_m": 0.0,
+        "gps_alt_relative_m": 0.0,
+        "baro_m": 0.5,
+        "speed_kmh": 0.0,
+        "throttle_pct": 0.0,
+        "gyro": [
+          0,
+          0,
+          0
+        ],
+        "setpoint": [
+          1,
+          0,
+          -1
+        ]
+      },
+      {
+        "t": 3.0,
+        "distance_home_m": 0.1,
+        "gps_alt_relative_m": 0.1,
+        "baro_m": 0.3,
+        "speed_kmh": 2.1,
+        "throttle_pct": 26.8,
+        "gyro": [
+          1,
+          6,
+          -2
+        ],
+        "setpoint": [
+          -1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 30.0,
+        "distance_home_m": 22.2,
+        "gps_alt_relative_m": 15.2,
+        "baro_m": 19.3,
+        "speed_kmh": 28.2,
+        "throttle_pct": 21.5,
+        "gyro": [
+          0,
+          0,
+          2
+        ],
+        "setpoint": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "t": 60.0,
+        "distance_home_m": 45.9,
+        "gps_alt_relative_m": 2.6,
+        "baro_m": -0.5,
+        "speed_kmh": 45.6,
+        "throttle_pct": 31.0,
+        "gyro": [
+          -90,
+          -84,
+          64
+        ],
+        "setpoint": [
+          -86,
+          -83,
+          62
+        ]
+      },
+      {
+        "t": 70.0,
+        "distance_home_m": 15.4,
+        "gps_alt_relative_m": 7.5,
+        "baro_m": 10.4,
+        "speed_kmh": 27.3,
+        "throttle_pct": 20.2,
+        "gyro": [
+          2,
+          -28,
+          27
+        ],
+        "setpoint": [
+          -1,
+          -27,
+          29
+        ]
+      },
+      {
+        "t": 120.0,
+        "distance_home_m": 44.7,
+        "gps_alt_relative_m": 2.9,
+        "baro_m": 8.7,
+        "speed_kmh": 1.4,
+        "throttle_pct": 32.9,
+        "gyro": [
+          43,
+          -37,
+          -19
+        ],
+        "setpoint": [
+          34,
+          -52,
+          -15
+        ]
+      },
+      {
+        "t": 127.0,
+        "distance_home_m": 22.9,
+        "gps_alt_relative_m": 17.9,
+        "baro_m": 22.4,
+        "speed_kmh": 78.0,
+        "throttle_pct": 11.1,
+        "gyro": [
+          928,
+          124,
+          218
+        ],
+        "setpoint": [
+          1169,
+          -2,
+          857
+        ]
+      },
+      {
+        "t": 150.0,
+        "distance_home_m": 18.7,
+        "gps_alt_relative_m": 10.5,
+        "baro_m": 10.6,
+        "speed_kmh": 15.3,
+        "throttle_pct": 15.3,
+        "gyro": [
+          1,
+          0,
+          1
+        ],
+        "setpoint": [
+          -1,
+          1,
+          0
+        ]
+      },
+      {
+        "t": 200.0,
+        "distance_home_m": 65.8,
+        "gps_alt_relative_m": -3.5,
+        "baro_m": 1.0,
+        "speed_kmh": 33.1,
+        "throttle_pct": 25.5,
+        "gyro": [
+          0,
+          0,
+          0
+        ],
+        "setpoint": [
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "t": 250.0,
+        "distance_home_m": 13.7,
+        "gps_alt_relative_m": 7.6,
+        "baro_m": 18.5,
+        "speed_kmh": 66.1,
+        "throttle_pct": 28.2,
+        "gyro": [
+          322,
+          -14,
+          -20
+        ],
+        "setpoint": [
+          389,
+          1,
+          -25
+        ]
+      },
+      {
+        "t": 263.7,
+        "distance_home_m": 23.3,
+        "gps_alt_relative_m": 1.7,
+        "baro_m": 28.5,
+        "speed_kmh": 127.9,
+        "throttle_pct": 11.7,
+        "gyro": [
+          -23,
+          -10,
+          2
+        ],
+        "setpoint": [
+          0,
+          -1,
+          0
+        ]
+      },
+      {
+        "t": 300.0,
+        "distance_home_m": 15.3,
+        "gps_alt_relative_m": 0.8,
+        "baro_m": 4.5,
+        "speed_kmh": 32.1,
+        "throttle_pct": 28.7,
+        "gyro": [
+          -2,
+          -1,
+          -1
+        ],
+        "setpoint": [
+          -1,
+          -2,
+          0
+        ]
+      },
+      {
+        "t": 340.0,
+        "distance_home_m": 23.2,
+        "gps_alt_relative_m": 7.2,
+        "baro_m": 20.9,
+        "speed_kmh": 44.3,
+        "throttle_pct": 30.5,
+        "gyro": [
+          75,
+          -52,
+          -73
+        ],
+        "setpoint": [
+          71,
+          -53,
+          -71
+        ]
+      },
+      {
+        "t": 360.0,
+        "distance_home_m": 27.1,
+        "gps_alt_relative_m": 4.8,
+        "baro_m": 8.8,
+        "speed_kmh": 32.2,
+        "throttle_pct": 22.8,
+        "gyro": [
+          -13,
+          1,
+          7
+        ],
+        "setpoint": [
+          -12,
+          1,
+          8
+        ]
+      },
+      {
+        "t": 371.897,
+        "distance_home_m": 46.1,
+        "gps_alt_relative_m": 1.2,
+        "baro_m": 1.1,
+        "speed_kmh": 2.1,
+        "throttle_pct": 0.0,
+        "gyro": [
+          1,
+          2,
+          12
+        ],
+        "setpoint": [
+          0,
+          1,
+          13
+        ]
+      }
+    ]
+  }
+}
