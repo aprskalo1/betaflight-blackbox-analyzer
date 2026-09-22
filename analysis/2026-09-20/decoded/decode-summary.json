@@ -1,0 +1,50 @@
+[
+  {
+    "file": "LOG00001.BFL",
+    "status": "decoded",
+    "bytes": 29054,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00002.BFL",
+    "status": "decoded",
+    "bytes": 11774209,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00003.BFL",
+    "status": "decoded",
+    "bytes": 18565,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00004.BFL",
+    "status": "decoded",
+    "bytes": 4435035,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00005.BFL",
+    "status": "decoded",
+    "bytes": 59956,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00006.BFL",
+    "status": "decoded",
+    "bytes": 5903052,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00007.BFL",
+    "status": "decoded",
+    "bytes": 44048,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00008.BFL",
+    "status": "decoded",
+    "bytes": 11720012,
+    "invalidCallbacks": 0
+  }
+]

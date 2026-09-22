@@ -1,0 +1,93 @@
+{
+  "method": "Trapezoidal integration of amperageLatest (centiamps) over recorded timestamps. Intervals >5ms excluded. No estimate for missing flight time or unlogged ground consumption. Values depend on existing sensor calibration; not independent actual consumption.",
+  "logs": [
+    {
+      "file": "LOG00001",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 0.700711,
+      "integrated_recorded_mah": 0.19283158888888877,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00002",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 343.647196,
+      "integrated_recorded_mah": 464.6599574957865,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00003",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 0.379916,
+      "integrated_recorded_mah": 0.11537520138888908,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00004",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 129.184551,
+      "integrated_recorded_mah": 192.27393257082832,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00005",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 1.560047,
+      "integrated_recorded_mah": 1.9765048166666626,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00006",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 170.877344,
+      "integrated_recorded_mah": 291.83168429028194,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00007",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 1.165373,
+      "integrated_recorded_mah": 0.30580899305555465,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00008",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 341.623297,
+      "integrated_recorded_mah": 529.2742722666507,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    }
+  ]
+}

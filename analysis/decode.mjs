@@ -22,8 +22,11 @@ const {FlightLogParser}=await import('./tools/parser-node/flightlog_parser.js');
 const defs=await import('./tools/parser-node/flightlog_fielddefs.js');
 const input=path.resolve(process.argv[2] || '.');
 const out=path.resolve(process.argv[3] || 'analysis/decoded'); fs.mkdirSync(out,{recursive:true});
+const results=[];
 for(const name of fs.readdirSync(input).filter(x=>x.toUpperCase().endsWith('.BFL')).sort()) {
- const data=fs.readFileSync(path.join(input,name)); const p=new FlightLogParser(data); p.parseHeader(0,data.length);
+ const data=fs.readFileSync(path.join(input,name));
+ if(data.length===0){results.push({file:name,status:'empty',bytes:0});console.log(name,'empty file; no recorded data');continue;}
+ const p=new FlightLogParser(data); p.parseHeader(0,data.length);
  const stem=name.replace('.BFL',''); const handles={}; const buffers={};
  for(const kind of ['I','G','H','S']) if(p.frameDefs[kind]) {
    handles[kind]=fs.openSync(path.join(out,`${stem}.${kind}.csv`),'w'); buffers[kind]='';
@@ -45,5 +48,7 @@ for(const name of fs.readdirSync(input).filter(x=>x.toUpperCase().endsWith('.BFL
  fs.writeFileSync(path.join(out,`${stem}.headers.txt`),data.subarray(0,headerEnd));
  const meta={file:name,invalidCallbacks:invalid,sysConfig:p.sysConfig,frameDefs:p.frameDefs,stats:p.stats,events,flightModeNames:defs.FLIGHT_LOG_FLIGHT_MODE_NAME,eventNames:defs.FlightLogEvent,failsafeNames:defs.FLIGHT_LOG_FAILSAFE_PHASE_NAME};
  fs.writeFileSync(path.join(out,`${stem}.metadata.json`),JSON.stringify(meta,null,2));
+ results.push({file:name,status:'decoded',bytes:data.length,invalidCallbacks:invalid});
  console.log(name,JSON.stringify({invalid,frames:Object.fromEntries(Object.entries(p.stats.frame).map(([k,v])=>[k,{valid:v.validCount,corrupt:v.corruptCount,desync:v.desyncCount}]))}));
 }
+fs.writeFileSync(path.join(out,'decode-summary.json'),JSON.stringify(results,null,2));

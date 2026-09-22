@@ -1,0 +1,796 @@
+[
+  {
+    "file": "LOG00008",
+    "manual_motor_hf_rms_percentiles": {
+      "p50": 7.462151672766963,
+      "p90": 16.56341528180197,
+      "p99": 28.31609101368239,
+      "max": 42.66921350582002
+    },
+    "all_bursts": [
+      {
+        "t": 239.434566,
+        "motor_correction_rms_units": 42.66921350582002,
+        "motor_correction_percent_of_range": 2.1345279392606313,
+        "dominant_recorded_correction_hz": 146.43490374948067,
+        "throttle": 28.7,
+        "rpm": [
+          19614.285714285714,
+          14100.0,
+          4885.714285714285,
+          20957.14285714286
+        ],
+        "command": [
+          1526.0,
+          944.0,
+          48.0,
+          875.0
+        ],
+        "setpoint": [
+          474.0,
+          9.0,
+          -214.0
+        ],
+        "gyro": [
+          530.0,
+          34.0,
+          -194.0
+        ],
+        "D_peak_abs": 343.0,
+        "error_peak_abs": 102.0,
+        "acc_peak_g": 2.7465250862152333
+      },
+      {
+        "t": 119.139269,
+        "motor_correction_rms_units": 40.18487179821699,
+        "motor_correction_percent_of_range": 2.0102487142679837,
+        "dominant_recorded_correction_hz": 106.85790273610752,
+        "throttle": 19.5,
+        "rpm": [
+          14428.57142857143,
+          14485.714285714286,
+          6514.285714285715,
+          13557.142857142857
+        ],
+        "command": [
+          600.0,
+          126.0,
+          48.0,
+          1199.0
+        ],
+        "setpoint": [
+          235.0,
+          15.0,
+          72.0
+        ],
+        "gyro": [
+          402.0,
+          13.0,
+          186.0
+        ],
+        "D_peak_abs": 717.0,
+        "error_peak_abs": 560.0,
+        "acc_peak_g": 5.3964902509836135
+      },
+      {
+        "t": 138.926926,
+        "motor_correction_rms_units": 39.59400575316593,
+        "motor_correction_percent_of_range": 1.980690632974784,
+        "dominant_recorded_correction_hz": 189.96960486419113,
+        "throttle": 39.3,
+        "rpm": [
+          14328.57142857143,
+          17357.14285714286,
+          11514.285714285714,
+          16228.57142857143
+        ],
+        "command": [
+          913.0,
+          1034.0,
+          606.0,
+          787.0
+        ],
+        "setpoint": [
+          72.0,
+          -8.0,
+          0.0
+        ],
+        "gyro": [
+          88.0,
+          -11.0,
+          -4.0
+        ],
+        "D_peak_abs": 85.0,
+        "error_peak_abs": 32.0,
+        "acc_peak_g": 2.6838226442850455
+      },
+      {
+        "t": 102.013445,
+        "motor_correction_rms_units": 38.65518934675628,
+        "motor_correction_percent_of_range": 1.9337263305030656,
+        "dominant_recorded_correction_hz": 102.9002026347702,
+        "throttle": 54.5,
+        "rpm": [
+          13514.285714285714,
+          21757.14285714286,
+          21371.428571428572,
+          19928.571428571428
+        ],
+        "command": [
+          874.0,
+          1166.0,
+          1377.0,
+          1182.0
+        ],
+        "setpoint": [
+          -148.0,
+          -35.0,
+          0.0
+        ],
+        "gyro": [
+          -153.0,
+          -53.0,
+          6.0
+        ],
+        "D_peak_abs": 65.0,
+        "error_peak_abs": 22.0,
+        "acc_peak_g": 5.634700337102811
+      },
+      {
+        "t": 99.39706,
+        "motor_correction_rms_units": 38.45463268245701,
+        "motor_correction_percent_of_range": 1.9236934808632822,
+        "dominant_recorded_correction_hz": 106.85790273610752,
+        "throttle": 73.2,
+        "rpm": [
+          23485.714285714286,
+          22914.285714285714,
+          21871.428571428572,
+          25971.428571428572
+        ],
+        "command": [
+          1558.0,
+          1348.0,
+          1420.0,
+          1850.0
+        ],
+        "setpoint": [
+          1.0,
+          -21.0,
+          0.0
+        ],
+        "gyro": [
+          8.0,
+          -29.0,
+          27.0
+        ],
+        "D_peak_abs": 163.0,
+        "error_peak_abs": 132.0,
+        "acc_peak_g": 6.667996585834776
+      },
+      {
+        "t": 180.862271,
+        "motor_correction_rms_units": 38.07139223048766,
+        "motor_correction_percent_of_range": 1.9045218724606134,
+        "dominant_recorded_correction_hz": 189.96960486419113,
+        "throttle": 47.8,
+        "rpm": [
+          15700.0,
+          16414.285714285714,
+          15757.142857142857,
+          19085.714285714286
+        ],
+        "command": [
+          900.0,
+          1030.0,
+          934.0,
+          1231.0
+        ],
+        "setpoint": [
+          2.0,
+          -29.0,
+          0.0
+        ],
+        "gyro": [
+          -21.0,
+          -9.0,
+          4.0
+        ],
+        "D_peak_abs": 90.0,
+        "error_peak_abs": 39.0,
+        "acc_peak_g": 3.715582644748144
+      }
+    ],
+    "low_command_bursts": [
+      {
+        "t": 138.926926,
+        "motor_correction_rms_units": 39.59400575316593,
+        "motor_correction_percent_of_range": 1.980690632974784,
+        "dominant_recorded_correction_hz": 189.96960486419113,
+        "throttle": 39.3,
+        "rpm": [
+          14328.57142857143,
+          17357.14285714286,
+          11514.285714285714,
+          16228.57142857143
+        ],
+        "command": [
+          913.0,
+          1034.0,
+          606.0,
+          787.0
+        ],
+        "setpoint": [
+          72.0,
+          -8.0,
+          0.0
+        ],
+        "gyro": [
+          88.0,
+          -11.0,
+          -4.0
+        ],
+        "D_peak_abs": 85.0,
+        "error_peak_abs": 32.0,
+        "acc_peak_g": 2.6838226442850455
+      },
+      {
+        "t": 180.862271,
+        "motor_correction_rms_units": 38.07139223048766,
+        "motor_correction_percent_of_range": 1.9045218724606134,
+        "dominant_recorded_correction_hz": 189.96960486419113,
+        "throttle": 47.8,
+        "rpm": [
+          15700.0,
+          16414.285714285714,
+          15757.142857142857,
+          19085.714285714286
+        ],
+        "command": [
+          900.0,
+          1030.0,
+          934.0,
+          1231.0
+        ],
+        "setpoint": [
+          2.0,
+          -29.0,
+          0.0
+        ],
+        "gyro": [
+          -21.0,
+          -9.0,
+          4.0
+        ],
+        "D_peak_abs": 90.0,
+        "error_peak_abs": 39.0,
+        "acc_peak_g": 3.715582644748144
+      },
+      {
+        "t": 127.828056,
+        "motor_correction_rms_units": 36.19897181926322,
+        "motor_correction_percent_of_range": 1.810854017972147,
+        "dominant_recorded_correction_hz": 193.92730496552846,
+        "throttle": 46.2,
+        "rpm": [
+          17485.714285714286,
+          18157.14285714286,
+          13471.42857142857,
+          18014.285714285714
+        ],
+        "command": [
+          972.0,
+          1124.0,
+          718.0,
+          1100.0
+        ],
+        "setpoint": [
+          4.0,
+          -113.0,
+          0.0
+        ],
+        "gyro": [
+          9.0,
+          -133.0,
+          -3.0
+        ],
+        "D_peak_abs": 100.0,
+        "error_peak_abs": 35.0,
+        "acc_peak_g": 3.5131310666460647
+      },
+      {
+        "t": 57.69276,
+        "motor_correction_rms_units": 35.413234201100884,
+        "motor_correction_percent_of_range": 1.771547483796943,
+        "dominant_recorded_correction_hz": 189.96960486419113,
+        "throttle": 41.6,
+        "rpm": [
+          14728.57142857143,
+          18114.285714285714,
+          12314.285714285714,
+          16114.285714285714
+        ],
+        "command": [
+          948.0,
+          1107.0,
+          653.0,
+          895.0
+        ],
+        "setpoint": [
+          114.0,
+          -27.0,
+          -18.0
+        ],
+        "gyro": [
+          120.0,
+          -20.0,
+          -17.0
+        ],
+        "D_peak_abs": 72.0,
+        "error_peak_abs": 20.0,
+        "acc_peak_g": 4.708998880636941
+      },
+      {
+        "t": 39.202899,
+        "motor_correction_rms_units": 34.905776597018544,
+        "motor_correction_percent_of_range": 1.7461619108063302,
+        "dominant_recorded_correction_hz": 150.39260385081798,
+        "throttle": 29.0,
+        "rpm": [
+          14057.142857142857,
+          13742.857142857143,
+          10371.42857142857,
+          15414.285714285714
+        ],
+        "command": [
+          627.0,
+          707.0,
+          380.0,
+          751.0
+        ],
+        "setpoint": [
+          1.0,
+          1.0,
+          29.0
+        ],
+        "gyro": [
+          9.0,
+          -5.0,
+          27.0
+        ],
+        "D_peak_abs": 61.0,
+        "error_peak_abs": 25.0,
+        "acc_peak_g": 2.0159782868911442
+      },
+      {
+        "t": 173.187797,
+        "motor_correction_rms_units": 33.81314160296638,
+        "motor_correction_percent_of_range": 1.6915028315641012,
+        "dominant_recorded_correction_hz": 193.92730496552846,
+        "throttle": 46.6,
+        "rpm": [
+          16771.428571428572,
+          18242.85714285714,
+          11614.285714285714,
+          18757.14285714286
+        ],
+        "command": [
+          998.0,
+          1278.0,
+          598.0,
+          1084.0
+        ],
+        "setpoint": [
+          26.0,
+          -30.0,
+          -14.0
+        ],
+        "gyro": [
+          42.0,
+          -20.0,
+          -22.0
+        ],
+        "D_peak_abs": 52.0,
+        "error_peak_abs": 43.0,
+        "acc_peak_g": 3.805045171762784
+      }
+    ]
+  },
+  {
+    "file": "LOG00011",
+    "manual_motor_hf_rms_percentiles": {
+      "p50": 4.845613006100724,
+      "p90": 10.912913966071084,
+      "p99": 20.72430810969997,
+      "max": 33.04256489435471
+    },
+    "all_bursts": [
+      {
+        "t": 196.674214,
+        "motor_correction_rms_units": 33.04256489435471,
+        "motor_correction_percent_of_range": 1.652954722078775,
+        "dominant_recorded_correction_hz": 122.68870314145678,
+        "throttle": 0.0,
+        "rpm": [
+          20457.14285714286,
+          18042.85714285714,
+          5528.571428571428,
+          11842.857142857143
+        ],
+        "command": [
+          540.0,
+          48.0,
+          1633.0,
+          1589.0
+        ],
+        "setpoint": [
+          182.0,
+          1.0,
+          0.0
+        ],
+        "gyro": [
+          548.0,
+          -21.0,
+          -8.0
+        ],
+        "D_peak_abs": 742.0,
+        "error_peak_abs": 682.0,
+        "acc_peak_g": 3.0793978387950793
+      },
+      {
+        "t": 57.945148,
+        "motor_correction_rms_units": 31.273913427076945,
+        "motor_correction_percent_of_range": 1.5644779103090016,
+        "dominant_recorded_correction_hz": 154.35030395215531,
+        "throttle": 0.0,
+        "rpm": [
+          14485.714285714286,
+          14428.57142857143,
+          11671.42857142857,
+          19657.14285714286
+        ],
+        "command": [
+          292.0,
+          562.0,
+          48.0,
+          896.0
+        ],
+        "setpoint": [
+          1170.0,
+          -12.0,
+          0.0
+        ],
+        "gyro": [
+          1114.0,
+          38.0,
+          15.0
+        ],
+        "D_peak_abs": 778.0,
+        "error_peak_abs": 532.0,
+        "acc_peak_g": 3.2651333233425035
+      },
+      {
+        "t": 38.678708,
+        "motor_correction_rms_units": 31.032178037015676,
+        "motor_correction_percent_of_range": 1.5523850943979827,
+        "dominant_recorded_correction_hz": 102.9002026347702,
+        "throttle": 0.0,
+        "rpm": [
+          9342.857142857143,
+          9900.0,
+          3528.5714285714284,
+          12214.285714285714
+        ],
+        "command": [
+          506.0,
+          478.0,
+          174.0,
+          547.0
+        ],
+        "setpoint": [
+          1170.0,
+          37.0,
+          0.0
+        ],
+        "gyro": [
+          1224.0,
+          52.0,
+          0.0
+        ],
+        "D_peak_abs": 700.0,
+        "error_peak_abs": 404.0,
+        "acc_peak_g": 3.2921147987076442
+      },
+      {
+        "t": 101.555411,
+        "motor_correction_rms_units": 28.62011306120928,
+        "motor_correction_percent_of_range": 1.4317215138173727,
+        "dominant_recorded_correction_hz": 106.85790273610752,
+        "throttle": 0.0,
+        "rpm": [
+          20357.14285714286,
+          13228.57142857143,
+          7571.428571428572,
+          14885.714285714286
+        ],
+        "command": [
+          1499.0,
+          591.0,
+          848.0,
+          48.0
+        ],
+        "setpoint": [
+          292.0,
+          8.0,
+          0.0
+        ],
+        "gyro": [
+          420.0,
+          -91.0,
+          -39.0
+        ],
+        "D_peak_abs": 756.0,
+        "error_peak_abs": 340.0,
+        "acc_peak_g": 3.4679972544970528
+      },
+      {
+        "t": 12.015947,
+        "motor_correction_rms_units": 27.900380417273222,
+        "motor_correction_percent_of_range": 1.3957168793033128,
+        "dominant_recorded_correction_hz": 118.73100304011946,
+        "throttle": 0.0,
+        "rpm": [
+          21214.285714285714,
+          21871.428571428572,
+          3571.4285714285716,
+          10985.714285714286
+        ],
+        "command": [
+          1894.0,
+          2047.0,
+          178.0,
+          619.0
+        ],
+        "setpoint": [
+          472.0,
+          -11.0,
+          0.0
+        ],
+        "gyro": [
+          916.0,
+          22.0,
+          -1.0
+        ],
+        "D_peak_abs": 739.0,
+        "error_peak_abs": 447.0,
+        "acc_peak_g": 2.564255647980178
+      },
+      {
+        "t": 205.768418,
+        "motor_correction_rms_units": 27.81512462953382,
+        "motor_correction_percent_of_range": 1.3914519574554187,
+        "dominant_recorded_correction_hz": 110.81560283744483,
+        "throttle": 0.0,
+        "rpm": [
+          8471.42857142857,
+          6457.142857142857,
+          3514.285714285714,
+          10185.714285714286
+        ],
+        "command": [
+          504.0,
+          400.0,
+          172.0,
+          546.0
+        ],
+        "setpoint": [
+          1170.0,
+          25.0,
+          0.0
+        ],
+        "gyro": [
+          1215.0,
+          21.0,
+          2.0
+        ],
+        "D_peak_abs": 645.0,
+        "error_peak_abs": 365.0,
+        "acc_peak_g": 2.812302434128095
+      }
+    ],
+    "low_command_bursts": [
+      {
+        "t": 115.282662,
+        "motor_correction_rms_units": 25.797856785684207,
+        "motor_correction_percent_of_range": 1.2905381083383796,
+        "dominant_recorded_correction_hz": 110.81560283744483,
+        "throttle": 39.7,
+        "rpm": [
+          14100.0,
+          20457.14285714286,
+          10457.142857142857,
+          19742.85714285714
+        ],
+        "command": [
+          644.0,
+          1091.0,
+          516.0,
+          1050.0
+        ],
+        "setpoint": [
+          -1.0,
+          1.0,
+          0.0
+        ],
+        "gyro": [
+          0.0,
+          12.0,
+          -2.0
+        ],
+        "D_peak_abs": 56.0,
+        "error_peak_abs": 27.0,
+        "acc_peak_g": 3.60179302942433
+      },
+      {
+        "t": 144.378448,
+        "motor_correction_rms_units": 23.12759585488382,
+        "motor_correction_percent_of_range": 1.156958271880131,
+        "dominant_recorded_correction_hz": 193.92730496552846,
+        "throttle": 65.7,
+        "rpm": [
+          19000.0,
+          19342.85714285714,
+          16842.85714285714,
+          22914.285714285714
+        ],
+        "command": [
+          1392.0,
+          1433.0,
+          1261.0,
+          1655.0
+        ],
+        "setpoint": [
+          -38.0,
+          -9.0,
+          1.0
+        ],
+        "gyro": [
+          -36.0,
+          2.0,
+          6.0
+        ],
+        "D_peak_abs": 31.0,
+        "error_peak_abs": 19.0,
+        "acc_peak_g": 7.283560079439271
+      },
+      {
+        "t": 83.1979,
+        "motor_correction_rms_units": 22.721672712705022,
+        "motor_correction_percent_of_range": 1.136651961616059,
+        "dominant_recorded_correction_hz": 197.88500506686577,
+        "throttle": 47.3,
+        "rpm": [
+          18471.428571428572,
+          16842.85714285714,
+          15928.57142857143,
+          17357.14285714286
+        ],
+        "command": [
+          996.0,
+          961.0,
+          972.0,
+          1112.0
+        ],
+        "setpoint": [
+          0.0,
+          -135.0,
+          1.0
+        ],
+        "gyro": [
+          8.0,
+          -132.0,
+          -1.0
+        ],
+        "D_peak_abs": 39.0,
+        "error_peak_abs": 18.0,
+        "acc_peak_g": 4.711838011449085
+      },
+      {
+        "t": 152.424958,
+        "motor_correction_rms_units": 22.246444271901254,
+        "motor_correction_percent_of_range": 1.1128786529215233,
+        "dominant_recorded_correction_hz": 193.92730496552846,
+        "throttle": 45.9,
+        "rpm": [
+          15814.285714285714,
+          15757.142857142857,
+          14242.857142857143,
+          17042.85714285714
+        ],
+        "command": [
+          1102.0,
+          962.0,
+          951.0,
+          943.0
+        ],
+        "setpoint": [
+          1.0,
+          1.0,
+          0.0
+        ],
+        "gyro": [
+          5.0,
+          -6.0,
+          -1.0
+        ],
+        "D_peak_abs": 31.0,
+        "error_peak_abs": 7.0,
+        "acc_peak_g": 2.245904002260287
+      },
+      {
+        "t": 28.565678,
+        "motor_correction_rms_units": 21.768458867404426,
+        "motor_correction_percent_of_range": 1.0889674270837633,
+        "dominant_recorded_correction_hz": 201.84270516820308,
+        "throttle": 48.8,
+        "rpm": [
+          15700.0,
+          16971.428571428572,
+          14285.714285714286,
+          18014.285714285714
+        ],
+        "command": [
+          1015.0,
+          1111.0,
+          947.0,
+          1231.0
+        ],
+        "setpoint": [
+          -8.0,
+          5.0,
+          0.0
+        ],
+        "gyro": [
+          -8.0,
+          12.0,
+          1.0
+        ],
+        "D_peak_abs": 33.0,
+        "error_peak_abs": 9.0,
+        "acc_peak_g": 3.1963302744846374
+      },
+      {
+        "t": 5.610619,
+        "motor_correction_rms_units": 21.54082010659395,
+        "motor_correction_percent_of_range": 1.0775797952273114,
+        "dominant_recorded_correction_hz": 197.88500506686577,
+        "throttle": 47.3,
+        "rpm": [
+          16114.285714285714,
+          17042.85714285714,
+          14242.857142857143,
+          17042.85714285714
+        ],
+        "command": [
+          958.0,
+          1070.0,
+          972.0,
+          1164.0
+        ],
+        "setpoint": [
+          -22.0,
+          -31.0,
+          -24.0
+        ],
+        "gyro": [
+          -26.0,
+          -25.0,
+          -24.0
+        ],
+        "D_peak_abs": 34.0,
+        "error_peak_abs": 10.0,
+        "acc_peak_g": 3.0519059729659626
+      }
+    ]
+  }
+]

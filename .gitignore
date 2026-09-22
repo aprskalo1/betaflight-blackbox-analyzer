@@ -16,6 +16,9 @@ analysis/*/decoded/*.csv
 
 # Console transcripts
 **/run_output.txt
+**/run_analysis_output.txt
+**/recovery_comparison_output.txt
+**/split_s_output.txt
 analysis/shaking/scan_output.txt
 
 # Local credentials and environment overrides

@@ -14,8 +14,9 @@ from inventory import header
 OUT=BASE/'results';OUT.mkdir(exist_ok=True)
 
 def rms(a):return np.sqrt(np.mean(a*a,axis=0))
-def load(name):
-    d=pd.read_csv(BASE/'decoded'/f'{name}.I.csv');g=pd.read_csv(BASE/'decoded'/f'{name}.G.csv');h=header(name)
+def load(name,base=None):
+    folder=Path(base) if base is not None else BASE
+    d=pd.read_csv(folder/'decoded'/f'{name}.I.csv');g=pd.read_csv(folder/'decoded'/f'{name}.G.csv');h=header(name,folder)
     t=(d.time.to_numpy()-d.time.iloc[0])/1e6;fs=1/np.median(np.diff(t))
     x={'name':name,'d':d,'t':t,'fs':fs,'h':h,'group':'Default' if h['simplified_d_gain']=='100' else 'D 1.10'}
     x['gyro']=d[[f'gyroADC[{a}]' for a in range(3)]].to_numpy(float)
@@ -40,7 +41,8 @@ def load(name):
 
 def stats(x,start,end):
     m=(x['t']>=start)&(x['t']<end)
-    r={'file':x['name'],'group':x['group'],'start':start,'end':end,'th_mean':float(x['th'][m].mean()),'th_std':float(x['th'][m].std()),'speed':float(x['speed'][m].mean()),'voltage':float(x['volt'][m].mean()),'sp_max':float(abs(x['sp'][m]).max()),'acc_max':float(x['acc'][m].max()),'current':float(x['current'][m].mean()),'rpm_mean':float(x['rpm'][m].mean()),'rpm_min':float(x['rpm'][m].min()),'motor_top_pct':float(100*np.mean(np.any(x['motor'][m]>=2047,axis=1))),'motor_bottom_pct':float(100*np.mean(np.any(x['motor'][m]<=158,axis=1)))}
+    motor_min,motor_max=map(float,x['h']['motorOutput'].split(','))
+    r={'file':x['name'],'group':x['group'],'start':start,'end':end,'th_mean':float(x['th'][m].mean()),'th_std':float(x['th'][m].std()),'speed':float(x['speed'][m].mean()),'voltage':float(x['volt'][m].mean()),'sp_max':float(abs(x['sp'][m]).max()),'acc_max':float(x['acc'][m].max()),'current':float(x['current'][m].mean()),'rpm_mean':float(x['rpm'][m].mean()),'rpm_min':float(x['rpm'][m].min()),'motor_top_pct':float(100*np.mean(np.any(x['motor'][m]>=motor_max,axis=1))),'motor_bottom_pct':float(100*np.mean(np.any(x['motor'][m]<=motor_min,axis=1)))}
     for field in ['shake_err','shake_gyro','shake_sp','high_gyro','high_raw','high_D','D']:
         val=rms(x[field][m])
         for a,v in enumerate(val):r[field+'_'+['roll','pitch','yaw'][a]]=float(v)

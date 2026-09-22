@@ -1,0 +1,49 @@
+{
+  "method": "Trapezoidal integration of amperageLatest (centiamps) over recorded timestamps. Intervals >5ms excluded. No estimate for missing flight time or unlogged ground consumption. Values depend on existing sensor calibration; not independent actual consumption.",
+  "logs": [
+    {
+      "file": "LOG00008",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 270.807442,
+      "integrated_recorded_mah": 465.8507657222139,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00009",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 123.222215,
+      "integrated_recorded_mah": 167.24690911250002,
+      "excluded_gap_s": 0.718794,
+      "invalid_decoder_callbacks": 22,
+      "clean_log_end": false
+    },
+    {
+      "file": "LOG00010",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 2.244065,
+      "integrated_recorded_mah": 0.6177270569444414,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    },
+    {
+      "file": "LOG00011",
+      "current_meter_source_inferred_from_conditional_header": "ADC",
+      "ibata_scale": 400,
+      "ibata_offset": 0,
+      "recorded_duration_s": 255.076282,
+      "integrated_recorded_mah": 396.4155364597207,
+      "excluded_gap_s": 0.0,
+      "invalid_decoder_callbacks": 0,
+      "clean_log_end": true
+    }
+  ]
+}

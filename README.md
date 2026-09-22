@@ -20,6 +20,10 @@ The current project consists of local Node.js and Python analysis scripts. Its d
 - [6 September flight analysis](analysis/REPORT.md)
 - [13 September tuning comparison](analysis/2026-09-13/REPORT.md)
 - [13 September crash analysis](analysis/2026-09-13/crash/REPORT.md)
+- [15 September Dynamic Idle comparison](analysis/2026-09-15/REPORT.md)
+- [15 September second-battery crash investigation](analysis/2026-09-15/crash/REPORT.md)
+- [15 September post-crash vibration and hardware comparison](analysis/2026-09-15/post_crash/REPORT.md)
+- [20 September shaking, motor response and battery-calibration preparation](analysis/2026-09-20/REPORT.md)
 
 Run the decoder from the project root with an input directory and a separate output directory:
 

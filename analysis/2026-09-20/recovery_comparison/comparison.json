@@ -1,0 +1,230 @@
+[
+  {
+    "reference": "Sept13_idle_off",
+    "today_selection": "first_battery",
+    "tolerance": 1.0,
+    "pairs": 11,
+    "reference_eligible": 56,
+    "today_eligible": 19,
+    "before_median": {
+      "shake_combined": 3.941818410553001,
+      "shake_peak": 8.791147144815563,
+      "pre_low_rpm_p05": 2928.5714285714284
+    },
+    "today_median": {
+      "shake_combined": 6.153427196003465,
+      "shake_peak": 13.540047841587532,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 3
+  },
+  {
+    "reference": "Sept13_idle_off",
+    "today_selection": "first_battery",
+    "tolerance": 1.5,
+    "pairs": 14,
+    "reference_eligible": 56,
+    "today_eligible": 19,
+    "before_median": {
+      "shake_combined": 4.046634497981195,
+      "shake_peak": 9.036146758199212,
+      "pre_low_rpm_p05": 2957.142857142857
+    },
+    "today_median": {
+      "shake_combined": 6.288432130739234,
+      "shake_peak": 13.994258947966191,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 3
+  },
+  {
+    "reference": "Sept13_idle_off",
+    "today_selection": "first_battery",
+    "tolerance": 2.0,
+    "pairs": 18,
+    "reference_eligible": 56,
+    "today_eligible": 19,
+    "before_median": {
+      "shake_combined": 3.8743416041422822,
+      "shake_peak": 8.09436068148307,
+      "pre_low_rpm_p05": 2957.142857142857
+    },
+    "today_median": {
+      "shake_combined": 5.614845830426468,
+      "shake_peak": 11.988787712876736,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 3
+  },
+  {
+    "reference": "Sept13_idle_off",
+    "today_selection": "all_today",
+    "tolerance": 1.0,
+    "pairs": 27,
+    "reference_eligible": 56,
+    "today_eligible": 87,
+    "before_median": {
+      "shake_combined": 3.806864797731563,
+      "shake_peak": 8.014160344513597,
+      "pre_low_rpm_p05": 3028.5714285714284
+    },
+    "today_median": {
+      "shake_combined": 3.741347247602098,
+      "shake_peak": 10.22054695522885,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 12
+  },
+  {
+    "reference": "Sept13_idle_off",
+    "today_selection": "all_today",
+    "tolerance": 1.5,
+    "pairs": 47,
+    "reference_eligible": 56,
+    "today_eligible": 87,
+    "before_median": {
+      "shake_combined": 3.806864797731563,
+      "shake_peak": 8.014160344513597,
+      "pre_low_rpm_p05": 3114.285714285714
+    },
+    "today_median": {
+      "shake_combined": 3.7408706100050244,
+      "shake_peak": 10.22054695522885,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 27
+  },
+  {
+    "reference": "Sept13_idle_off",
+    "today_selection": "all_today",
+    "tolerance": 2.0,
+    "pairs": 54,
+    "reference_eligible": 56,
+    "today_eligible": 87,
+    "before_median": {
+      "shake_combined": 3.792234329254248,
+      "shake_peak": 7.973890963970616,
+      "pre_low_rpm_p05": 3112.5
+    },
+    "today_median": {
+      "shake_combined": 3.8522900658368924,
+      "shake_peak": 9.843757676636105,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 28
+  },
+  {
+    "reference": "Sept15_first_idle35",
+    "today_selection": "first_battery",
+    "tolerance": 1.0,
+    "pairs": 7,
+    "reference_eligible": 25,
+    "today_eligible": 19,
+    "before_median": {
+      "shake_combined": 5.37041852121632,
+      "shake_peak": 11.889574618739648,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "today_median": {
+      "shake_combined": 6.153427196003465,
+      "shake_peak": 13.540047841587532,
+      "pre_low_rpm_p05": 3442.8571428571427
+    },
+    "pairs_lower_today": 3
+  },
+  {
+    "reference": "Sept15_first_idle35",
+    "today_selection": "first_battery",
+    "tolerance": 1.5,
+    "pairs": 13,
+    "reference_eligible": 25,
+    "today_eligible": 19,
+    "before_median": {
+      "shake_combined": 5.234378205294209,
+      "shake_peak": 10.543063438820276,
+      "pre_low_rpm_p05": 3414.285714285714
+    },
+    "today_median": {
+      "shake_combined": 6.153427196003465,
+      "shake_peak": 13.540047841587532,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 6
+  },
+  {
+    "reference": "Sept15_first_idle35",
+    "today_selection": "first_battery",
+    "tolerance": 2.0,
+    "pairs": 15,
+    "reference_eligible": 25,
+    "today_eligible": 19,
+    "before_median": {
+      "shake_combined": 4.763444330657512,
+      "shake_peak": 9.200617324032113,
+      "pre_low_rpm_p05": 3414.285714285714
+    },
+    "today_median": {
+      "shake_combined": 6.153427196003465,
+      "shake_peak": 13.060572201573484,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 5
+  },
+  {
+    "reference": "Sept15_first_idle35",
+    "today_selection": "all_today",
+    "tolerance": 1.0,
+    "pairs": 14,
+    "reference_eligible": 25,
+    "today_eligible": 87,
+    "before_median": {
+      "shake_combined": 4.929374661874078,
+      "shake_peak": 9.871840381426194,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "today_median": {
+      "shake_combined": 5.785546930421878,
+      "shake_peak": 13.904755357435649,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 4
+  },
+  {
+    "reference": "Sept15_first_idle35",
+    "today_selection": "all_today",
+    "tolerance": 1.5,
+    "pairs": 21,
+    "reference_eligible": 25,
+    "today_eligible": 87,
+    "before_median": {
+      "shake_combined": 4.763444330657512,
+      "shake_peak": 10.173141874920862,
+      "pre_low_rpm_p05": 3414.285714285714
+    },
+    "today_median": {
+      "shake_combined": 4.423396995353745,
+      "shake_peak": 10.926721091594427,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 10
+  },
+  {
+    "reference": "Sept15_first_idle35",
+    "today_selection": "all_today",
+    "tolerance": 2.0,
+    "pairs": 24,
+    "reference_eligible": 25,
+    "today_eligible": 87,
+    "before_median": {
+      "shake_combined": 4.30545685423175,
+      "shake_peak": 9.908253110812801,
+      "pre_low_rpm_p05": 3414.285714285714
+    },
+    "today_median": {
+      "shake_combined": 4.98205231796652,
+      "shake_peak": 12.23338446659098,
+      "pre_low_rpm_p05": 3428.5714285714284
+    },
+    "pairs_lower_today": 9
+  }
+]

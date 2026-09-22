@@ -1,0 +1,1277 @@
+[
+  {
+    "file": "LOG00008",
+    "valid_seconds": 237.22347599878964,
+    "motor_summary": [
+      {
+        "motor": 1,
+        "min_rpm": 2928.5714285714284,
+        "max_rpm": 31857.14285714286,
+        "rpm_percentiles": [
+          3485.714285714286,
+          11214.285714285714,
+          28571.428571428572
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 2,
+        "min_rpm": 2971.4285714285716,
+        "max_rpm": 33228.57142857143,
+        "rpm_percentiles": [
+          4542.857142857143,
+          13600.0,
+          30185.714285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 3,
+        "min_rpm": 2742.8571428571427,
+        "max_rpm": 31742.85714285714,
+        "rpm_percentiles": [
+          3471.4285714285716,
+          12385.714285714286,
+          26957.14285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 4,
+        "min_rpm": 3200.0,
+        "max_rpm": 33228.57142857143,
+        "rpm_percentiles": [
+          4842.857142857143,
+          13428.57142857143,
+          30400.0
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      }
+    ],
+    "rapid_drop_candidates": [
+      {
+        "motor": 1,
+        "t": 227.507823,
+        "start_t": 227.488091,
+        "rpm_before": 9585.714285714286,
+        "rpm_after": 4700.0,
+        "command_before": 48.0,
+        "command_after": 563.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1160.0,
+        "throttle": 13.0,
+        "setpoint": [
+          1078.0,
+          36.0,
+          0.0
+        ],
+        "max_error_nearby": 525.0
+      },
+      {
+        "motor": 1,
+        "t": 179.260093,
+        "start_t": 179.240361,
+        "rpm_before": 13642.857142857143,
+        "rpm_after": 7042.857142857143,
+        "command_before": 59.0,
+        "command_after": 301.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1934.0,
+        "throttle": 0.0,
+        "setpoint": [
+          141.0,
+          10.0,
+          -1.0
+        ],
+        "max_error_nearby": 180.0
+      },
+      {
+        "motor": 1,
+        "t": 33.415403,
+        "start_t": 33.39567,
+        "rpm_before": 11128.57142857143,
+        "rpm_after": 5842.857142857143,
+        "command_before": 48.0,
+        "command_after": 401.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1938.0,
+        "throttle": 0.0,
+        "setpoint": [
+          133.0,
+          9.0,
+          0.0
+        ],
+        "max_error_nearby": 442.0
+      },
+      {
+        "motor": 1,
+        "t": 145.013074,
+        "start_t": 144.993344,
+        "rpm_before": 13100.0,
+        "rpm_after": 7100.0,
+        "command_before": 95.0,
+        "command_after": 330.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2036.0,
+        "throttle": 0.0,
+        "setpoint": [
+          131.0,
+          9.0,
+          0.0
+        ],
+        "max_error_nearby": 356.0
+      },
+      {
+        "motor": 1,
+        "t": 137.880183,
+        "start_t": 137.860451,
+        "rpm_before": 9971.42857142857,
+        "rpm_after": 5414.285714285715,
+        "command_before": 48.0,
+        "command_after": 309.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1061.0,
+        "throttle": 0.0,
+        "setpoint": [
+          660.0,
+          41.0,
+          0.0
+        ],
+        "max_error_nearby": 247.0
+      },
+      {
+        "motor": 1,
+        "t": 248.401599,
+        "start_t": 248.381867,
+        "rpm_before": 11428.57142857143,
+        "rpm_after": 6371.428571428572,
+        "command_before": 176.0,
+        "command_after": 463.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2023.0,
+        "throttle": 0.0,
+        "setpoint": [
+          86.0,
+          7.0,
+          0.0
+        ],
+        "max_error_nearby": 499.0
+      },
+      {
+        "motor": 1,
+        "t": 135.64956,
+        "start_t": 135.629828,
+        "rpm_before": 14985.714285714286,
+        "rpm_after": 8471.42857142857,
+        "command_before": 354.0,
+        "command_after": 419.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          126.0,
+          9.0,
+          -1.0
+        ],
+        "max_error_nearby": 356.0
+      },
+      {
+        "motor": 1,
+        "t": 229.850947,
+        "start_t": 229.831215,
+        "rpm_before": 13471.42857142857,
+        "rpm_after": 7814.285714285715,
+        "command_before": 188.0,
+        "command_after": 308.0,
+        "prior80ms_command_min": 124.0,
+        "prior80ms_command_max": 1903.0,
+        "throttle": 0.0,
+        "setpoint": [
+          78.0,
+          6.0,
+          0.0
+        ],
+        "max_error_nearby": 367.0
+      },
+      {
+        "motor": 2,
+        "t": 133.05095,
+        "start_t": 133.031218,
+        "rpm_before": 8185.714285714285,
+        "rpm_after": 4014.285714285714,
+        "command_before": 48.0,
+        "command_after": 681.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 930.0,
+        "throttle": 8.4,
+        "setpoint": [
+          1169.0,
+          72.0,
+          0.0
+        ],
+        "max_error_nearby": 561.0
+      },
+      {
+        "motor": 2,
+        "t": 135.628842,
+        "start_t": 135.609111,
+        "rpm_before": 16742.85714285714,
+        "rpm_after": 8742.857142857143,
+        "command_before": 48.0,
+        "command_after": 347.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          163.0,
+          11.0,
+          0.0
+        ],
+        "max_error_nearby": 356.0
+      },
+      {
+        "motor": 2,
+        "t": 227.659757,
+        "start_t": 227.640025,
+        "rpm_before": 15700.0,
+        "rpm_after": 8371.42857142857,
+        "command_before": 140.0,
+        "command_after": 382.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          117.0,
+          25.0,
+          0.0
+        ],
+        "max_error_nearby": 528.0
+      },
+      {
+        "motor": 2,
+        "t": 251.828963,
+        "start_t": 251.809231,
+        "rpm_before": 17928.571428571428,
+        "rpm_after": 9828.57142857143,
+        "command_before": 48.0,
+        "command_after": 393.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          164.0,
+          11.0,
+          0.0
+        ],
+        "max_error_nearby": 407.0
+      },
+      {
+        "motor": 2,
+        "t": 155.179749,
+        "start_t": 155.160017,
+        "rpm_before": 14928.57142857143,
+        "rpm_after": 8242.857142857143,
+        "command_before": 181.0,
+        "command_after": 346.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          113.0,
+          8.0,
+          0.0
+        ],
+        "max_error_nearby": 385.0
+      },
+      {
+        "motor": 2,
+        "t": 137.881169,
+        "start_t": 137.861438,
+        "rpm_before": 15357.142857142857,
+        "rpm_after": 8500.0,
+        "command_before": 224.0,
+        "command_after": 369.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          665.0,
+          39.0,
+          0.0
+        ],
+        "max_error_nearby": 247.0
+      },
+      {
+        "motor": 2,
+        "t": 144.903564,
+        "start_t": 144.883832,
+        "rpm_before": 11457.142857142857,
+        "rpm_after": 6414.285714285715,
+        "command_before": 56.0,
+        "command_after": 310.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1246.0,
+        "throttle": 0.0,
+        "setpoint": [
+          1170.0,
+          -19.0,
+          0.0
+        ],
+        "max_error_nearby": 356.0
+      },
+      {
+        "motor": 2,
+        "t": 172.488325,
+        "start_t": 172.468593,
+        "rpm_before": 12871.42857142857,
+        "rpm_after": 7214.285714285715,
+        "command_before": 48.0,
+        "command_after": 322.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1942.0,
+        "throttle": 0.0,
+        "setpoint": [
+          250.0,
+          -12.0,
+          -2.0
+        ],
+        "max_error_nearby": 195.0
+      },
+      {
+        "motor": 3,
+        "t": 119.125456,
+        "start_t": 119.105724,
+        "rpm_before": 12942.857142857143,
+        "rpm_after": 6557.142857142857,
+        "command_before": 48.0,
+        "command_after": 330.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 17.3,
+        "setpoint": [
+          423.0,
+          21.0,
+          125.0
+        ],
+        "max_error_nearby": 535.0
+      },
+      {
+        "motor": 3,
+        "t": 33.065157,
+        "start_t": 33.045425,
+        "rpm_before": 9371.42857142857,
+        "rpm_after": 4757.142857142857,
+        "command_before": 48.0,
+        "command_after": 312.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 728.0,
+        "throttle": 0.0,
+        "setpoint": [
+          36.0,
+          417.0,
+          0.0
+        ],
+        "max_error_nearby": 184.0
+      },
+      {
+        "motor": 3,
+        "t": 155.078131,
+        "start_t": 155.0584,
+        "rpm_before": 12571.42857142857,
+        "rpm_after": 6957.142857142857,
+        "command_before": 48.0,
+        "command_after": 302.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1511.0,
+        "throttle": 0.0,
+        "setpoint": [
+          1170.0,
+          -1.0,
+          2.0
+        ],
+        "max_error_nearby": 385.0
+      },
+      {
+        "motor": 3,
+        "t": 248.264464,
+        "start_t": 248.244734,
+        "rpm_before": 15257.142857142857,
+        "rpm_after": 9000.0,
+        "command_before": 109.0,
+        "command_after": 382.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1698.0,
+        "throttle": 0.0,
+        "setpoint": [
+          1170.0,
+          37.0,
+          0.0
+        ],
+        "max_error_nearby": 499.0
+      },
+      {
+        "motor": 3,
+        "t": 172.450879,
+        "start_t": 172.431104,
+        "rpm_before": 9614.285714285714,
+        "rpm_after": 5700.0,
+        "command_before": 48.0,
+        "command_after": 324.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1889.0,
+        "throttle": 0.0,
+        "setpoint": [
+          245.0,
+          4.0,
+          -15.0
+        ],
+        "max_error_nearby": 195.0
+      },
+      {
+        "motor": 4,
+        "t": 248.371015,
+        "start_t": 248.351283,
+        "rpm_before": 12314.285714285714,
+        "rpm_after": 6628.571428571428,
+        "command_before": 198.0,
+        "command_after": 304.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1275.0,
+        "throttle": 0.0,
+        "setpoint": [
+          141.0,
+          10.0,
+          0.0
+        ],
+        "max_error_nearby": 499.0
+      },
+      {
+        "motor": 4,
+        "t": 137.9818,
+        "start_t": 137.962068,
+        "rpm_before": 15700.0,
+        "rpm_after": 8585.714285714286,
+        "command_before": 213.0,
+        "command_after": 341.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1512.0,
+        "throttle": 0.0,
+        "setpoint": [
+          74.0,
+          6.0,
+          -1.0
+        ],
+        "max_error_nearby": 144.0
+      },
+      {
+        "motor": 4,
+        "t": 18.043377,
+        "start_t": 18.023643,
+        "rpm_before": 14000.0,
+        "rpm_after": 7814.285714285715,
+        "command_before": 48.0,
+        "command_after": 375.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1549.0,
+        "throttle": 0.3,
+        "setpoint": [
+          34.0,
+          2.0,
+          -1.0
+        ],
+        "max_error_nearby": 137.0
+      },
+      {
+        "motor": 4,
+        "t": 18.622559,
+        "start_t": 18.602826,
+        "rpm_before": 10714.285714285714,
+        "rpm_after": 6100.0,
+        "command_before": 90.0,
+        "command_after": 353.0,
+        "prior80ms_command_min": 90.0,
+        "prior80ms_command_max": 1811.0,
+        "throttle": 0.0,
+        "setpoint": [
+          575.0,
+          -10.0,
+          0.0
+        ],
+        "max_error_nearby": 188.0
+      },
+      {
+        "motor": 4,
+        "t": 144.994329,
+        "start_t": 144.974598,
+        "rpm_before": 13028.57142857143,
+        "rpm_after": 7514.285714285715,
+        "command_before": 129.0,
+        "command_after": 386.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1325.0,
+        "throttle": 0.0,
+        "setpoint": [
+          164.0,
+          11.0,
+          -1.0
+        ],
+        "max_error_nearby": 356.0
+      },
+      {
+        "motor": 4,
+        "t": 155.177776,
+        "start_t": 155.158044,
+        "rpm_before": 8885.714285714286,
+        "rpm_after": 5314.285714285715,
+        "command_before": 48.0,
+        "command_after": 316.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 867.0,
+        "throttle": 0.0,
+        "setpoint": [
+          117.0,
+          8.0,
+          0.0
+        ],
+        "max_error_nearby": 385.0
+      }
+    ],
+    "stable_command_drop_candidates": [],
+    "rapid_rise_candidates": [],
+    "steady_window_count": 66,
+    "steady_median_rpm_relative_to_four_mean": [
+      0.9311268492529369,
+      1.052491031712476,
+      0.9742974220077998,
+      1.0473495748746016
+    ],
+    "steady_median_command_relative_to_four_mean": [
+      0.9216940716673796,
+      1.0592889890041282,
+      0.9706921112670919,
+      1.0557459359445662
+    ]
+  },
+  {
+    "file": "LOG00009",
+    "valid_seconds": 97.61923499950193,
+    "motor_summary": [
+      {
+        "motor": 1,
+        "min_rpm": 3257.1428571428573,
+        "max_rpm": 30500.0,
+        "rpm_percentiles": [
+          5757.142857142857,
+          11428.57142857143,
+          22200.0
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 2,
+        "min_rpm": 3314.285714285714,
+        "max_rpm": 33228.57142857143,
+        "rpm_percentiles": [
+          6928.571428571428,
+          13228.57142857143,
+          25057.14285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 3,
+        "min_rpm": 3328.5714285714284,
+        "max_rpm": 30400.0,
+        "rpm_percentiles": [
+          3872.0000000000014,
+          12042.857142857143,
+          23285.714285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 4,
+        "min_rpm": 6014.285714285715,
+        "max_rpm": 32585.714285714286,
+        "rpm_percentiles": [
+          8728.57142857143,
+          12871.42857142857,
+          24071.428571428572
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      }
+    ],
+    "rapid_drop_candidates": [
+      {
+        "motor": 1,
+        "t": 11.270606,
+        "start_t": 11.25087,
+        "rpm_before": 15200.0,
+        "rpm_after": 8114.285714285715,
+        "command_before": 48.0,
+        "command_after": 420.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          4.0,
+          1.0,
+          0.0
+        ],
+        "max_error_nearby": 582.0
+      },
+      {
+        "motor": 2,
+        "t": 14.746029,
+        "start_t": 14.726294,
+        "rpm_before": 13742.857142857143,
+        "rpm_after": 8057.142857142857,
+        "command_before": 229.0,
+        "command_after": 417.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          75.0,
+          6.0,
+          1.0
+        ],
+        "max_error_nearby": 346.0
+      },
+      {
+        "motor": 2,
+        "t": 11.273567,
+        "start_t": 11.253831,
+        "rpm_before": 13428.57142857143,
+        "rpm_after": 7914.285714285715,
+        "command_before": 282.0,
+        "command_after": 314.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          3.0,
+          1.0,
+          0.0
+        ],
+        "max_error_nearby": 582.0
+      },
+      {
+        "motor": 3,
+        "t": 10.969632,
+        "start_t": 10.949895,
+        "rpm_before": 14185.714285714286,
+        "rpm_after": 8000.0,
+        "command_before": 249.0,
+        "command_after": 357.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1305.0,
+        "throttle": 0.0,
+        "setpoint": [
+          10.0,
+          1.0,
+          0.0
+        ],
+        "max_error_nearby": 396.0
+      },
+      {
+        "motor": 4,
+        "t": 10.962724,
+        "start_t": 10.942988,
+        "rpm_before": 15928.57142857143,
+        "rpm_after": 8942.857142857143,
+        "command_before": 48.0,
+        "command_after": 308.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1586.0,
+        "throttle": 0.0,
+        "setpoint": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_error_nearby": 366.0
+      }
+    ],
+    "stable_command_drop_candidates": [],
+    "rapid_rise_candidates": [],
+    "steady_window_count": 81,
+    "steady_median_rpm_relative_to_four_mean": [
+      0.9575240053359637,
+      1.04594221725672,
+      0.9377890806055649,
+      1.0627858341185394
+    ],
+    "steady_median_command_relative_to_four_mean": [
+      0.9411073529782038,
+      1.0590428690881049,
+      0.9119506890267969,
+      1.0796502286784047
+    ]
+  },
+  {
+    "file": "LOG00011",
+    "valid_seconds": 245.17672199874906,
+    "motor_summary": [
+      {
+        "motor": 1,
+        "min_rpm": 3057.1428571428573,
+        "max_rpm": 30400.0,
+        "rpm_percentiles": [
+          3500.0,
+          12071.42857142857,
+          28014.285714285714
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 2,
+        "min_rpm": 2785.714285714286,
+        "max_rpm": 31742.85714285714,
+        "rpm_percentiles": [
+          3771.4285714285716,
+          12314.285714285714,
+          28957.14285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 3,
+        "min_rpm": 2885.714285714286,
+        "max_rpm": 29157.14285714286,
+        "rpm_percentiles": [
+          3457.1428571428573,
+          11128.57142857143,
+          26057.14285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      },
+      {
+        "motor": 4,
+        "min_rpm": 3057.1428571428573,
+        "max_rpm": 31857.14285714286,
+        "rpm_percentiles": [
+          4414.285714285715,
+          13314.285714285714,
+          30185.714285714286
+        ],
+        "zero_samples": 0,
+        "time_below2500_s": 0.0
+      }
+    ],
+    "rapid_drop_candidates": [
+      {
+        "motor": 1,
+        "t": 199.931857,
+        "start_t": 199.912126,
+        "rpm_before": 14885.714285714286,
+        "rpm_after": 7685.714285714285,
+        "command_before": 48.0,
+        "command_after": 360.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          68.0,
+          6.0,
+          0.0
+        ],
+        "max_error_nearby": 494.0
+      },
+      {
+        "motor": 1,
+        "t": 41.364268,
+        "start_t": 41.344538,
+        "rpm_before": 16414.285714285714,
+        "rpm_after": 8514.285714285714,
+        "command_before": 169.0,
+        "command_after": 326.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1301.0,
+        "throttle": 0.0,
+        "setpoint": [
+          -1170.0,
+          -24.0,
+          0.0
+        ],
+        "max_error_nearby": 223.0
+      },
+      {
+        "motor": 1,
+        "t": 24.790706,
+        "start_t": 24.770973,
+        "rpm_before": 11100.0,
+        "rpm_after": 5785.714285714285,
+        "command_before": 220.0,
+        "command_after": 931.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1294.0,
+        "throttle": 0.0,
+        "setpoint": [
+          319.0,
+          3.0,
+          0.0
+        ],
+        "max_error_nearby": 106.0
+      },
+      {
+        "motor": 1,
+        "t": 58.076366,
+        "start_t": 58.056634,
+        "rpm_before": 14571.42857142857,
+        "rpm_after": 7714.285714285715,
+        "command_before": 48.0,
+        "command_after": 369.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          82.0,
+          5.0,
+          0.0
+        ],
+        "max_error_nearby": 379.0
+      },
+      {
+        "motor": 1,
+        "t": 66.945852,
+        "start_t": 66.926121,
+        "rpm_before": 17171.428571428572,
+        "rpm_after": 9314.285714285714,
+        "command_before": 403.0,
+        "command_after": 324.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          58.0,
+          5.0,
+          0.0
+        ],
+        "max_error_nearby": 318.0
+      },
+      {
+        "motor": 1,
+        "t": 196.726502,
+        "start_t": 196.70678,
+        "rpm_before": 13828.57142857143,
+        "rpm_after": 7514.285714285715,
+        "command_before": 48.0,
+        "command_after": 304.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1968.0,
+        "throttle": 0.0,
+        "setpoint": [
+          97.0,
+          8.0,
+          0.0
+        ],
+        "max_error_nearby": 682.0
+      },
+      {
+        "motor": 1,
+        "t": 121.554245,
+        "start_t": 121.534513,
+        "rpm_before": 14385.714285714286,
+        "rpm_after": 8000.0,
+        "command_before": 166.0,
+        "command_after": 447.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1741.0,
+        "throttle": 0.0,
+        "setpoint": [
+          0.0,
+          -254.0,
+          0.0
+        ],
+        "max_error_nearby": 238.0
+      },
+      {
+        "motor": 1,
+        "t": 101.588955,
+        "start_t": 101.569223,
+        "rpm_before": 17928.571428571428,
+        "rpm_after": 9971.42857142857,
+        "command_before": 48.0,
+        "command_after": 411.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          101.0,
+          8.0,
+          0.0
+        ],
+        "max_error_nearby": 340.0
+      },
+      {
+        "motor": 2,
+        "t": 128.613155,
+        "start_t": 128.593424,
+        "rpm_before": 12985.714285714286,
+        "rpm_after": 6514.285714285715,
+        "command_before": 48.0,
+        "command_after": 309.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          73.0,
+          6.0,
+          0.0
+        ],
+        "max_error_nearby": 528.0
+      },
+      {
+        "motor": 2,
+        "t": 205.84241,
+        "start_t": 205.822679,
+        "rpm_before": 16057.142857142857,
+        "rpm_after": 8085.714285714285,
+        "command_before": 48.0,
+        "command_after": 361.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          174.0,
+          12.0,
+          0.0
+        ],
+        "max_error_nearby": 315.0
+      },
+      {
+        "motor": 2,
+        "t": 199.894367,
+        "start_t": 199.874636,
+        "rpm_before": 18842.85714285714,
+        "rpm_after": 9985.714285714286,
+        "command_before": 194.0,
+        "command_after": 311.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          109.0,
+          0.0,
+          0.0
+        ],
+        "max_error_nearby": 494.0
+      },
+      {
+        "motor": 2,
+        "t": 66.915268,
+        "start_t": 66.895536,
+        "rpm_before": 18157.14285714286,
+        "rpm_after": 9828.57142857143,
+        "command_before": 48.0,
+        "command_after": 333.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2001.0,
+        "throttle": 0.0,
+        "setpoint": [
+          176.0,
+          12.0,
+          0.0
+        ],
+        "max_error_nearby": 318.0
+      },
+      {
+        "motor": 2,
+        "t": 123.041014,
+        "start_t": 123.021282,
+        "rpm_before": 15042.857142857143,
+        "rpm_after": 8385.714285714286,
+        "command_before": 340.0,
+        "command_after": 339.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1383.0,
+        "throttle": 0.0,
+        "setpoint": [
+          124.0,
+          9.0,
+          140.0
+        ],
+        "max_error_nearby": 95.0
+      },
+      {
+        "motor": 2,
+        "t": 75.662338,
+        "start_t": 75.642606,
+        "rpm_before": 13642.857142857143,
+        "rpm_after": 7628.571428571428,
+        "command_before": 119.0,
+        "command_after": 362.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          80.0,
+          6.0,
+          0.0
+        ],
+        "max_error_nearby": 439.0
+      },
+      {
+        "motor": 2,
+        "t": 12.507349,
+        "start_t": 12.487614,
+        "rpm_before": 10657.142857142857,
+        "rpm_after": 6100.0,
+        "command_before": 193.0,
+        "command_after": 382.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 940.0,
+        "throttle": 0.0,
+        "setpoint": [
+          178.0,
+          4.0,
+          1.0
+        ],
+        "max_error_nearby": 76.0
+      },
+      {
+        "motor": 2,
+        "t": 164.896095,
+        "start_t": 164.876364,
+        "rpm_before": 8400.0,
+        "rpm_after": 4885.714285714285,
+        "command_before": 260.0,
+        "command_after": 706.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 737.0,
+        "throttle": 0.0,
+        "setpoint": [
+          130.0,
+          1.0,
+          0.0
+        ],
+        "max_error_nearby": 84.0
+      },
+      {
+        "motor": 3,
+        "t": 199.914141,
+        "start_t": 199.894367,
+        "rpm_before": 9000.0,
+        "rpm_after": 4942.857142857143,
+        "command_before": 160.0,
+        "command_after": 305.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1205.0,
+        "throttle": 0.0,
+        "setpoint": [
+          78.0,
+          6.0,
+          0.0
+        ],
+        "max_error_nearby": 494.0
+      },
+      {
+        "motor": 3,
+        "t": 121.555231,
+        "start_t": 121.5355,
+        "rpm_before": 12314.285714285714,
+        "rpm_after": 6785.714285714285,
+        "command_before": 228.0,
+        "command_after": 364.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1604.0,
+        "throttle": 0.0,
+        "setpoint": [
+          0.0,
+          -241.0,
+          0.0
+        ],
+        "max_error_nearby": 238.0
+      },
+      {
+        "motor": 3,
+        "t": 24.80452,
+        "start_t": 24.784786,
+        "rpm_before": 12214.285714285714,
+        "rpm_after": 6957.142857142857,
+        "command_before": 360.0,
+        "command_after": 631.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 781.0,
+        "throttle": 0.0,
+        "setpoint": [
+          373.0,
+          -11.0,
+          0.0
+        ],
+        "max_error_nearby": 117.0
+      },
+      {
+        "motor": 3,
+        "t": 41.384989,
+        "start_t": 41.365255,
+        "rpm_before": 8342.857142857143,
+        "rpm_after": 4957.142857142857,
+        "command_before": 106.0,
+        "command_after": 316.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1915.0,
+        "throttle": 0.0,
+        "setpoint": [
+          -1170.0,
+          -39.0,
+          0.0
+        ],
+        "max_error_nearby": 376.0
+      },
+      {
+        "motor": 4,
+        "t": 81.860118,
+        "start_t": 81.840344,
+        "rpm_before": 9714.285714285714,
+        "rpm_after": 4914.285714285715,
+        "command_before": 48.0,
+        "command_after": 316.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 820.0,
+        "throttle": 0.0,
+        "setpoint": [
+          146.0,
+          11.0,
+          0.0
+        ],
+        "max_error_nearby": 385.0
+      },
+      {
+        "motor": 4,
+        "t": 12.060351,
+        "start_t": 12.040616,
+        "rpm_before": 14671.42857142857,
+        "rpm_after": 7871.428571428572,
+        "command_before": 48.0,
+        "command_after": 389.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 2047.0,
+        "throttle": 0.0,
+        "setpoint": [
+          43.0,
+          3.0,
+          0.0
+        ],
+        "max_error_nearby": 447.0
+      },
+      {
+        "motor": 4,
+        "t": 75.656418,
+        "start_t": 75.636686,
+        "rpm_before": 11271.42857142857,
+        "rpm_after": 6085.714285714285,
+        "command_before": 48.0,
+        "command_after": 306.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1094.0,
+        "throttle": 0.0,
+        "setpoint": [
+          97.0,
+          8.0,
+          0.0
+        ],
+        "max_error_nearby": 439.0
+      },
+      {
+        "motor": 4,
+        "t": 199.906206,
+        "start_t": 199.886475,
+        "rpm_before": 12828.57142857143,
+        "rpm_after": 7142.857142857143,
+        "command_before": 279.0,
+        "command_after": 418.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1171.0,
+        "throttle": 0.0,
+        "setpoint": [
+          85.0,
+          5.0,
+          0.0
+        ],
+        "max_error_nearby": 494.0
+      },
+      {
+        "motor": 4,
+        "t": 196.701838,
+        "start_t": 196.682107,
+        "rpm_before": 14142.857142857143,
+        "rpm_after": 7971.428571428572,
+        "command_before": 94.0,
+        "command_after": 422.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1589.0,
+        "throttle": 0.0,
+        "setpoint": [
+          107.0,
+          7.0,
+          0.0
+        ],
+        "max_error_nearby": 682.0
+      },
+      {
+        "motor": 4,
+        "t": 44.80262,
+        "start_t": 44.782887,
+        "rpm_before": 11900.0,
+        "rpm_after": 6742.857142857143,
+        "command_before": 258.0,
+        "command_after": 409.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 1338.0,
+        "throttle": 3.8,
+        "setpoint": [
+          645.0,
+          27.0,
+          232.0
+        ],
+        "max_error_nearby": 211.0
+      },
+      {
+        "motor": 4,
+        "t": 38.766516,
+        "start_t": 38.746784,
+        "rpm_before": 12642.857142857143,
+        "rpm_after": 7485.714285714285,
+        "command_before": 357.0,
+        "command_after": 366.0,
+        "prior80ms_command_min": 48.0,
+        "prior80ms_command_max": 952.0,
+        "throttle": 0.0,
+        "setpoint": [
+          85.0,
+          6.0,
+          0.0
+        ],
+        "max_error_nearby": 404.0
+      }
+    ],
+    "stable_command_drop_candidates": [],
+    "rapid_rise_candidates": [],
+    "steady_window_count": 111,
+    "steady_median_rpm_relative_to_four_mean": [
+      1.0311938735513162,
+      1.0056023953886537,
+      0.8813398240617204,
+      1.0825360339744825
+    ],
+    "steady_median_command_relative_to_four_mean": [
+      1.0328210713883996,
+      1.005485408390506,
+      0.8650155216291343,
+      1.0948619892865896
+    ]
+  }
+]

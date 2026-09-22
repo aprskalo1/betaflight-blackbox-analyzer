@@ -5,8 +5,9 @@ sys.path.insert(0,str(BASE.parent/'tools/pythonpkgs'))
 import numpy as np
 import pandas as pd
 
-def header(name):
-    return dict(line[2:].split(':',1) for line in (BASE/'decoded'/f'{name}.headers.txt').read_text().splitlines() if ':' in line)
+def header(name,base=None):
+    folder=Path(base) if base is not None else BASE
+    return dict(line[2:].split(':',1) for line in (folder/'decoded'/f'{name}.headers.txt').read_text().splitlines() if ':' in line)
 
 def main():
     out=[]; headers={}
@@ -27,10 +28,12 @@ def main():
         item={'file':name,'date':h['Log start datetime'],'first_uptime_s':float(d.time.iloc[0]/1e6),'last_uptime_s':float(d.time.iloc[-1]/1e6),'duration_s':float(t[-1]),'rows':len(d),'invalid':meta['invalidCallbacks'],'frame_stats':meta['stats']['frame'],'dt_median_us':float(np.median(np.diff(d.time))),'dt_max_us':float(np.max(np.diff(d.time))) if len(d)>1 else None,'PIDs':{k:h[k] for k in ['rollPID','pitchPID','yawPID','d_min','simplified_d_gain','ff_weight','dyn_idle_min_rpm'] if k in h},'volts_start_end':[float(d.vbatLatest.iloc[:200].median()/100),float(d.vbatLatest.iloc[-200:].median()/100)],'max_acc_g':float(acc.max()),'max_acc_t':float(t[acc.argmax()]),'high_acc_times_s':np.unique(np.round(t[acc>8],1)).tolist(),'max_gyro_dps':float(abs(gyro).max()),'rpm_min':float(rpm.min()),'gps_speed_max_kmh':float(g.GPS_speed.max()*.036) if len(g) else None,'modes':modes,'events':events}
         out.append(item)
         print(json.dumps({k:v for k,v in item.items() if k not in ['frame_stats','high_acc_times_s']}))
-    baseline=headers['LOG00001']; changes={}
+    baseline=next(iter(headers.values())); changes={}
     for name,h in headers.items():
         changes[name]={k:[baseline.get(k),h.get(k)] for k in baseline.keys()|h.keys() if baseline.get(k)!=h.get(k)}
     (BASE/'inventory.json').write_text(json.dumps(out,indent=2))
     (BASE/'header_changes.json').write_text(json.dumps(changes,indent=2))
     print('HEADER_CHANGES',json.dumps(changes))
-if __name__=='__main__':main()
+if __name__=='__main__':
+    if len(sys.argv)>1:BASE=Path(sys.argv[1]).resolve()
+    main()

@@ -1,0 +1,36 @@
+[
+  {
+    "file": "LOG00008.BFL",
+    "status": "decoded",
+    "bytes": 9414070,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00009.BFL",
+    "status": "decoded",
+    "bytes": 4194304,
+    "invalidCallbacks": 22
+  },
+  {
+    "file": "LOG00010.BFL",
+    "status": "decoded",
+    "bytes": 79241,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00011.BFL",
+    "status": "decoded",
+    "bytes": 8738291,
+    "invalidCallbacks": 0
+  },
+  {
+    "file": "LOG00013.BFL",
+    "status": "empty",
+    "bytes": 0
+  },
+  {
+    "file": "LOG00014.BFL",
+    "status": "empty",
+    "bytes": 0
+  }
+]
